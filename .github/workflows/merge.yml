@@ -1,0 +1,49 @@
+name: Merge All Scraping Data
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 8:00 AM Egypt time - after all scrapers finish
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/**/*.csv'
+
+jobs:
+  merge:
+    name: Merge Data from All Accounts
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run merge script
+        run: python merge_data.py
+
+      - name: Commit merged CSVs
+        run: |
+          git config user.email "scraper-bot@github.com"
+          git config user.name "Scraper Bot"
+          git add amazon_products.csv noon_products.csv jumia_products.csv 2>/dev/null || true
+          if ! git diff --staged --quiet; then
+            git commit -m "Merged data from all accounts - $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Summary
+        run: |
+          echo "## Merge Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          for platform in amazon noon jumia; do
+            if [ -f "${platform}_products.csv" ]; then
+              COUNT=$(python -c "import csv; r=list(csv.DictReader(open('${platform}_products.csv',encoding='utf-8-sig'))); print(len(r))" 2>/dev/null || echo 0)
+              echo "- **${platform}**: ${COUNT} products" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
