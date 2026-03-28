@@ -1,96 +1,329 @@
 ﻿platform,asin,title,brand,category,current_price,original_price,discount,rating,reviews_count,prime_eligible,amazon_choice,sponsored,main_image,product_url,scraped_at
-amazon,,"Mila Women's Winter Pullover - Premium Knitwear Sweater Pullover for Women - Chic, Warm & Stylish - Perfect Holiday & Special Occasion Gift - One Size fits Most – بلوفر حريمي شتوي",,Women's Fashion,EGP 299.99,EGP 329.39,,4.6,Was:,,,,https://m.media-amazon.com/images/I/715iM+eJX3L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FY4HZFJQ,2026-03-28T14:13:10.149283
-amazon,,ROMBA SPORT,ROMBA SPORT,Women's Fashion,EGP 539.10,EGP 599.00,,3.6,Was:,,,,https://m.media-amazon.com/images/I/61Jhv-uAe+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DY6QFBVD,2026-03-28T14:13:10.150027
-amazon,,Meza,Meza,Women's Fashion,EGP 202.50,EGP 225.00,,4.1,Was:,,,,https://m.media-amazon.com/images/I/71f5gx3AVmL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2M6W8F2,2026-03-28T14:13:10.150690
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 310.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51YXzcHgBtL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXX6Y21K,2026-03-28T14:13:10.151242
-amazon,,Hi Cool Womens Winter Pullover Turtleneck Pullover for Women - Various Colors to Choose and Nature Photo Attachment,,Women's Fashion,EGP 275.00,EGP 350.00,,3.2,Was:,,,,https://m.media-amazon.com/images/I/51XwBRMAiBL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DMZF2R1H,2026-03-28T14:13:10.151888
-amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Women's Fashion,EGP 260.00,,,3.2,,,,,https://m.media-amazon.com/images/I/61cmbZpTWjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FM8HN15N,2026-03-28T14:13:10.152501
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 271.00,,,5.0,,,,,https://m.media-amazon.com/images/I/71JeVXurIVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL324FH2,2026-03-28T14:13:10.152983
-amazon,,Andora,Andora,Women's Fashion,EGP 499.00,EGP 748.50,,3.7,List:,,,,https://m.media-amazon.com/images/I/81GyNETMVbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FL2WD77D,2026-03-28T14:13:10.153656
-amazon,,Meza,Meza,Women's Fashion,EGP 112.50,EGP 125.00,,4.0,Was:,,,,https://m.media-amazon.com/images/I/81DWa-6bjgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNMWR1HY,2026-03-28T14:13:10.154340
-amazon,,Elegant & Comfortable Floral Pattern Trousers - Perfect for Any Occasion,,Women's Fashion,EGP 145.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41+Q-feSyfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWD28DBP,2026-03-28T14:13:10.154803
-amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 249.99,,,3.0,,,,,https://m.media-amazon.com/images/I/41TOTnEGG1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F76M4YXX,2026-03-28T14:13:10.155390
-amazon,,Trendyol,Trendyol,Women's Fashion,EGP 213.19,EGP 689.00,,5.0,List:,,,,https://m.media-amazon.com/images/I/61jOjlG6w9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWT8XW93,2026-03-28T14:13:10.156007
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 247.00,,,4.0,,,,,https://m.media-amazon.com/images/I/51L2fGbSxJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL38DST1,2026-03-28T14:13:10.156481
-amazon,,Mosca Women's Wear,Mosca Women's Wear,Women's Fashion,EGP 395.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41oVkdpBBgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FW18PVGK,2026-03-28T14:13:10.156945
-amazon,,Skirt Klosh For Women - Beige,,Women's Fashion,EGP 299.00,,,4.2,,,,,https://m.media-amazon.com/images/I/61i04WJvSXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DHLQBQSK,2026-03-28T14:13:10.157407
-amazon,,Trendyol,Trendyol,Women's Fashion,EGP 815.00,,,4.7,,,,,https://m.media-amazon.com/images/I/71H9K+XeDvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4T15MB1,2026-03-28T14:13:10.157993
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 799.00,,,,,,,,https://m.media-amazon.com/images/I/518J53sLQrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X42XYM,2026-03-28T14:13:10.158404
-amazon,,Women's Long Cardigan Multi Color Long Sleeve Blro Women's Wool Cardigan,,Women's Fashion,EGP 600.00,EGP 699.00,,2.9,Was:,,,,https://m.media-amazon.com/images/I/51Ep5kFFB4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWNKVT9B,2026-03-28T14:13:10.158947
-amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Women's Fashion,EGP 429.99,,,,,,,,https://m.media-amazon.com/images/I/51+IWInxzTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GPR672WP,2026-03-28T14:13:10.159515
-amazon,,Mesery,Mesery,Women's Fashion,EGP 263.12,EGP 299.00,,4.1,Was:,,,,https://m.media-amazon.com/images/I/51XAAs25oaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4WDWMRC,2026-03-28T14:13:10.160074
-amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 249.99,,,2.7,,,,,https://m.media-amazon.com/images/I/51Zq9+rS3PL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F84LL4C2,2026-03-28T14:13:10.160649
-amazon,,Women's Lingerie Set Lace V-neck Bodysuit with Panty,,Women's Fashion,EGP 278.26,,,4.5,,,,,https://m.media-amazon.com/images/I/410EL86DsPL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FMXNDG5Q,2026-03-28T14:13:10.161166
-amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 199.99,,,3.2,,,,,https://m.media-amazon.com/images/I/416kdcClt9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F76C24W1,2026-03-28T14:13:10.161748
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 334.00,EGP 499.00,,5.0,Was:,,,,https://m.media-amazon.com/images/I/61ZLEaWfX-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GMRTMYSM,2026-03-28T14:13:10.162335
-amazon,,Meza,Meza,Women's Fashion,EGP 233.10,,,3.7,,,,,https://m.media-amazon.com/images/I/814J6YdPWxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F7HZZHM9,2026-03-28T14:13:10.162814
-amazon,,Andora,Andora,Women's Fashion,EGP 499.00,EGP 749.00,,3.6,List:,,,,https://m.media-amazon.com/images/I/61AVnY46E4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DF5JLV3D,2026-03-28T14:13:10.163487
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 419.00,EGP 485.00,,3.0,Was:,,,,https://m.media-amazon.com/images/I/61rqs5gpx1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F8QS9TW6,2026-03-28T14:13:10.164045
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 296.00,,,5.0,,,,,https://m.media-amazon.com/images/I/71wxRj8nwLL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FK3VHDVR,2026-03-28T14:13:10.164512
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 519.00,,,,,,,,https://m.media-amazon.com/images/I/41phhuPjnDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4WYWZPL,2026-03-28T14:13:10.164950
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 351.00,,,2.9,,,,,https://m.media-amazon.com/images/I/61aHF9AcdcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FK3SBDVP,2026-03-28T14:13:10.165414
-amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,2.9,,,,,https://m.media-amazon.com/images/I/61q9Fdo2p4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXD8LW8P,2026-03-28T14:13:10.166005
-amazon,,Ribbed Knit Regular Neck Long Sleeve T-shirt for Women - Slim Fit Button Down,,Women's Fashion,EGP 249.99,,,3.2,,,,,https://m.media-amazon.com/images/I/61nF1zyOcYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DF9LCYXY,2026-03-28T14:13:10.166577
-amazon,,ONLY,ONLY,Women's Fashion,EGP 549.00,"EGP 1,479.00",,4.0,List:,,,,https://m.media-amazon.com/images/I/81sUhmRLgsL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8DBGB5J,2026-03-28T14:13:10.167212
-amazon,,Andora,Andora,Women's Fashion,EGP 541.00,,,4.2,,,,,https://m.media-amazon.com/images/I/81fw1xlzZNL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHL15BQC,2026-03-28T14:13:10.167800
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 584.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41xy-iLwraL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X48242,2026-03-28T14:13:10.168294
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 299.00,EGP 309.00,,4.0,Was:,,,,https://m.media-amazon.com/images/I/6146S7ij6xL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X5LH3Z,2026-03-28T14:13:10.168839
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 342.00,,,4.7,,,,,https://m.media-amazon.com/images/I/617Oilm3BEL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FGFPCHQQ,2026-03-28T14:13:10.169315
-amazon,,Mesery,Mesery,Women's Fashion,EGP 260.13,EGP 269.10,,4.2,Was:,,,,https://m.media-amazon.com/images/I/41TA8g+yTyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8H1YW35,2026-03-28T14:13:10.169860
-amazon,,Ultra Soft Cotton Lace Bodystocking Lingerie For Womens,,Women's Fashion,EGP 215.65,,,4.4,,,,,https://m.media-amazon.com/images/I/414GOCnIZzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FG7FTG25,2026-03-28T14:13:10.170342
-amazon,,TIGHT STITCH,TIGHT STITCH,Women's Fashion,EGP 199.00,,,2.9,,,,,https://m.media-amazon.com/images/I/41mhalr7VCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXXG6W7Z,2026-03-28T14:13:10.170876
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 440.00,,,,,,,,https://m.media-amazon.com/images/I/41Mh7vfnYAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2K4KCSF,2026-03-28T14:13:10.171307
-amazon,,DALY,DALY,Women's Fashion,EGP 467.50,,,4.2,,,,,https://m.media-amazon.com/images/I/71suPUcIWyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9WJMC1Y,2026-03-28T14:13:10.171945
-amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 199.99,,,3.8,,,,,https://m.media-amazon.com/images/I/61igJQdUq-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F85TTJGM,2026-03-28T14:13:10.172529
-amazon,,Meza,Meza,Women's Fashion,EGP 350.10,EGP 389.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/61xn8I+NFfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNNBBM6C,2026-03-28T14:13:10.173187
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 449.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81gCrSWRAfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X6C9F4,2026-03-28T14:13:10.173669
-amazon,,Sotex,Sotex,Women's Fashion,EGP 180.00,,,4.6,,,,,https://m.media-amazon.com/images/I/619uvbVyyWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D2D9N7N7,2026-03-28T14:13:10.174264
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 339.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51IOUqO4AXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXX56V8L,2026-03-28T14:13:10.174731
-amazon,,Dice,Dice,Women's Fashion,EGP 113.00,EGP 119.00,,4.4,List:,,,,https://m.media-amazon.com/images/I/61rqG5ipTsL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BVRTTDT2,2026-03-28T14:13:10.175415
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 344.00,,,,,,,,https://m.media-amazon.com/images/I/31mF61omriL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXXBLG6B,2026-03-28T14:13:14.357953
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 122.00,,,,,,,,https://m.media-amazon.com/images/I/71wn+i7bHcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS2749VD,2026-03-28T14:13:14.359108
-amazon,,Meza,Meza,Women's Fashion,EGP 382.50,EGP 399.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/71WjGreEYOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9XQ3K5T,2026-03-28T14:13:14.359756
-amazon,,Women's Ribbed Neck T-Shirt,,Women's Fashion,EGP 179.99,,,3.6,,,,,https://m.media-amazon.com/images/I/510sMpzJMlL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DF9X9L1G,2026-03-28T14:13:14.360346
-amazon,,Mesery,Mesery,Women's Fashion,EGP 260.13,,,3.6,,,,,https://m.media-amazon.com/images/I/61EsypHm2JL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D97ZWDHB,2026-03-28T14:13:14.360853
-amazon,,"Bodytalk BDTK Sport Pants for Women, Cotton, Black, L",,Women's Fashion,EGP 261.00,EGP 290.00,,3.6,Was:,,,,https://m.media-amazon.com/images/I/51jr3AT0gjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C8FY6DLC,2026-03-28T14:13:14.361409
-amazon,,Nileton,Nileton,Women's Fashion,EGP 315.00,,,4.1,,,,,https://m.media-amazon.com/images/I/419HWG9ysML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B36D8FYL,2026-03-28T14:13:14.362069
-amazon,,Meza,Meza,Women's Fashion,EGP 269.10,EGP 299.00,,3.2,Was:,,,,https://m.media-amazon.com/images/I/61bAixVdYhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D7TLWCJM,2026-03-28T14:13:14.362734
-amazon,,Meza,Meza,Women's Fashion,EGP 129.00,,,3.3,,,,,https://m.media-amazon.com/images/I/61Wd2m31IeL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHL3SSQV,2026-03-28T14:13:14.363324
-amazon,,Trendyol,Trendyol,Women's Fashion,EGP 915.00,,,,,,,,https://m.media-amazon.com/images/I/61mmX-ftXfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR3F1WM3,2026-03-28T14:13:14.363777
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 401.00,,,,,,,,https://m.media-amazon.com/images/I/41kR0O5GzSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS27QYFW,2026-03-28T14:13:14.364244
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 299.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51VrTBFgSvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK4FGP3K,2026-03-28T14:13:14.364713
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 450.00,,,4.5,,,,,https://m.media-amazon.com/images/I/61PuJxs2WSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X4BQ6M,2026-03-28T14:13:14.365220
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 545.00,,,,,,,,https://m.media-amazon.com/images/I/61sPlMa5NJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X3JJG9,2026-03-28T14:13:14.365655
-amazon,,Trendyol,Trendyol,Women's Fashion,EGP 835.00,,,,,,,,https://m.media-amazon.com/images/I/61dkaZx2laL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B6GKY5WW,2026-03-28T14:13:14.366075
-amazon,,Meza,Meza,Women's Fashion,EGP 170.10,EGP 189.00,,3.8,Was:,,,,https://m.media-amazon.com/images/I/61txP4jbguL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR5GQPNP,2026-03-28T14:13:14.366727
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 599.00,,,,,,,,https://m.media-amazon.com/images/I/31JdbRW6gnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X47QQ1,2026-03-28T14:13:14.367173
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 623.00,EGP 799.00,,,List:,,,,https://m.media-amazon.com/images/I/617n-AndRUL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK25LBY1,2026-03-28T14:13:14.367667
-amazon,,2pcs Round Neck Long Sleeve Sweatshirt Printed And Sweatpants Winter Cotton Set Women's Casual,,Women's Fashion,EGP 859.99,EGP 999.99,,2.8,List:,,,,https://m.media-amazon.com/images/I/51lV3bWZAwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWKR92HW,2026-03-28T14:13:14.368245
-amazon,,Meza,Meza,Women's Fashion,EGP 425.00,,,3.0,,,,,https://m.media-amazon.com/images/I/51KCpruwqhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTZQVXBC,2026-03-28T14:13:14.368707
-amazon,,Master of Mixes,Master of Mixes,Women's Fashion,EGP 399.00,,,3.4,,,,,https://m.media-amazon.com/images/I/51okvNPTIhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DHSY3L56,2026-03-28T14:13:14.369305
-amazon,,KOTON,KOTON,Women's Fashion,EGP 856.00,,,,,,,,https://m.media-amazon.com/images/I/815WuZ2jBkL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D57LT3BG,2026-03-28T14:13:14.369714
-amazon,,ONLY,ONLY,Women's Fashion,EGP 871.00,,,3.5,,,,,https://m.media-amazon.com/images/I/71osdSh8BmL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CP83Y3HS,2026-03-28T14:13:14.370254
-amazon,,Meza,Meza,Women's Fashion,EGP 269.00,,,2.9,,,,,https://m.media-amazon.com/images/I/71K1OpEtjOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CYCQ38VP,2026-03-28T14:13:14.370770
-amazon,,GuLiNiao,GuLiNiao,Women's Fashion,EGP 726.74,EGP 899.99,,3.0,Was:,,,,https://m.media-amazon.com/images/I/71BAs1RpAuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F48YZ52Q,2026-03-28T14:13:14.371328
-amazon,,DALY,DALY,Women's Fashion,,,,4.2,,,,,https://m.media-amazon.com/images/I/51yKutK4fKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D5WXF67S,2026-03-28T14:13:14.372015
-amazon,,Meza,Meza,Women's Fashion,EGP 350.10,,,4.3,,,,,https://m.media-amazon.com/images/I/71JQw-5pAKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F12HVF1X,2026-03-28T14:13:14.372576
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 389.00,,,,,,,,https://m.media-amazon.com/images/I/611x7EWvLoL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT3K3KHR,2026-03-28T14:13:14.373024
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 239.00,,,,,,,,https://m.media-amazon.com/images/I/610Udke80gL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X2LLDD,2026-03-28T14:13:14.373469
-amazon,,Dice,Dice,Women's Fashion,EGP 144.53,EGP 159.00,,4.6,List:,,,,https://m.media-amazon.com/images/I/311CK3U-jJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWT5PTT9,2026-03-28T14:13:14.374093
-amazon,,AJYAL,AJYAL,Women's Fashion,EGP 176.00,EGP 200.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/31HRheqD-nL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9772R89,2026-03-28T14:13:14.374736
-amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,3.1,,,,,https://m.media-amazon.com/images/I/61v8gbdiA6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D6ND4ZJS,2026-03-28T14:13:14.375339
-amazon,,Mesery,Mesery,Women's Fashion,EGP 260.13,EGP 269.10,,3.7,Was:,,,,https://m.media-amazon.com/images/I/51T8Ln1RmYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CQYM64TV,2026-03-28T14:13:14.375920
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 419.00,,,,,,,,https://m.media-amazon.com/images/I/812TlBuHb4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTB3W1SD,2026-03-28T14:13:14.376416
-amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Women's Fashion,EGP 116.10,,,3.7,,,,,https://m.media-amazon.com/images/I/71XmhxFtbuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNL34P83,2026-03-28T14:13:14.377037
-amazon,,Andora,Andora,Women's Fashion,EGP 400.00,,,3.8,,,,,https://m.media-amazon.com/images/I/712I-6RodwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D942W7LJ,2026-03-28T14:13:14.377627
-amazon,,Mamilly Jeans,Mamilly Jeans,Women's Fashion,EGP 600.00,,,3.5,,,,,https://m.media-amazon.com/images/I/61TuWhK5fxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CWS9CVV5,2026-03-28T14:13:14.378196
-amazon,,Meza,Meza,Women's Fashion,EGP 179.10,EGP 199.00,,4.1,List:,,,,https://m.media-amazon.com/images/I/51KMugmrHEL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FGDVC11B,2026-03-28T14:13:14.378851
-amazon,,ONLY,ONLY,Women's Fashion,"EGP 1,308.00",,,,,,,,https://m.media-amazon.com/images/I/61JYmOReYYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D3L7FXRZ,2026-03-28T14:13:14.379310
-amazon,,Meza,Meza,Women's Fashion,EGP 220.50,EGP 245.00,,4.2,Was:,,,,https://m.media-amazon.com/images/I/61QC0fXlxpL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DYF3KQH6,2026-03-28T14:13:14.379961
-amazon,,Meza,Meza,Women's Fashion,EGP 269.10,EGP 299.00,,3.7,List:,,,,https://m.media-amazon.com/images/I/51OznSKKRJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCGPTB8X,2026-03-28T14:13:14.380574
-amazon,,Nileton,Nileton,Women's Fashion,EGP 425.00,,,4.2,,,,,https://m.media-amazon.com/images/I/419TOiwz4JL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BH1CHMK9,2026-03-28T14:13:14.381152
-amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 519.00,,,1.0,,,,,https://m.media-amazon.com/images/I/61v1c4AU7JL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DQJJJZZ8,2026-03-28T14:13:14.381613
-amazon,,Women's Collared Crop Top Sleeveless Rib Top,,Women's Fashion,EGP 199.99,,,3.5,,,,,https://m.media-amazon.com/images/I/41wAMORIpDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR3H4QY3,2026-03-28T14:13:14.382150
-amazon,,Cottonil,Cottonil,Women's Fashion,EGP 131.00,EGP 159.00,,4.2,List:,,,,https://m.media-amazon.com/images/I/41xAPWNn9XL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DGWKPW6X,2026-03-28T14:13:14.382749
-amazon,,ZECOTEX,ZECOTEX,Women's Fashion,EGP 200.00,EGP 400.00,,3.3,List:,,,,https://m.media-amazon.com/images/I/71lgXq4kjBL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FD3LKQG7,2026-03-28T14:13:14.383410
-amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71Nm2s1m+cL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DBGJPT3J,2026-03-28T14:13:14.383944
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 199.99,,,3.9,,,,,https://m.media-amazon.com/images/I/71bF+-HuotL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CSC1THJX,2026-03-28T15:12:04.897488
+amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Men's Fashion,EGP 299.99,,,4.0,,,,,https://m.media-amazon.com/images/I/41wv06V2zLL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CH5GVZ5X,2026-03-28T15:12:04.898274
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 179.99,EGP 199.99,,3.8,Was:,,,,https://m.media-amazon.com/images/I/71kFnOqwE-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT1TH3KZ,2026-03-28T15:12:04.899119
+amazon,,Meza,Meza,Men's Fashion,EGP 215.10,EGP 269.00,,3.5,Was:,,,,https://m.media-amazon.com/images/I/615llrefROL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FQ5RGV6Q,2026-03-28T15:12:04.899936
+amazon,,Miza Men's Elastic Waist Light Elastic Classic Fit Pants,,Men's Fashion,EGP 249.00,,,2.3,,,,,https://m.media-amazon.com/images/I/519KYka86iL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C8KMRKHW,2026-03-28T15:12:04.900777
+amazon,,Meza,Meza,Men's Fashion,EGP 169.15,EGP 199.00,,2.4,List:,,,,https://m.media-amazon.com/images/I/71BHwAQ-eXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNNL6M5M,2026-03-28T15:12:04.901503
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 290.00,,,4.5,,,,,https://m.media-amazon.com/images/I/51kX7lzPQqL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F8QVHLLQ,2026-03-28T15:12:04.902054
+amazon,,Dice,Dice,Men's Fashion,EGP 399.00,,,4.3,,,,,https://m.media-amazon.com/images/I/71L+7FIxNWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DZ6WLH4D,2026-03-28T15:12:04.902605
+amazon,,Meza,Meza,Men's Fashion,EGP 249.00,,,2.3,,,,,https://m.media-amazon.com/images/I/51J0FMe-8EL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C8KS5V88,2026-03-28T15:12:04.903262
+amazon,,White Classic,White Classic,Men's Fashion,EGP 323.99,EGP 399.00,,3.8,List:,,,,https://m.media-amazon.com/images/I/71ehH6Epz6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FQ31XJPW,2026-03-28T15:12:04.904013
+amazon,,Mobaco,Mobaco,Men's Fashion,EGP 209.57,EGP 280.00,,4.3,Was:,,,,https://m.media-amazon.com/images/I/41e4DzPz2eL._AC_UL320_.jpg,https://www.amazon.eg/dp/B093G38GW8,2026-03-28T15:12:04.904680
+amazon,,Meza,Meza,Men's Fashion,EGP 249.00,,,2.3,,,,,https://m.media-amazon.com/images/I/61CMXX-9nbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FZKVRH6C,2026-03-28T15:12:04.905298
+amazon,,CLD Menswear,CLD Menswear,Men's Fashion,EGP 450.00,,,3.7,,,,,https://m.media-amazon.com/images/I/41Ar+JyzXvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FZMCYTG9,2026-03-28T15:12:04.905910
+amazon,,ROMBA SPORT,ROMBA SPORT,Men's Fashion,EGP 339.15,EGP 399.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/61nS4P4qJGL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FZ4WMF2R,2026-03-28T15:12:04.906623
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 224.99,EGP 279.00,,3.1,List:,,,,https://m.media-amazon.com/images/I/81Z3mwlkf2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR7DSKVZ,2026-03-28T15:12:04.907330
+amazon,,Levi's,Levi's,Men's Fashion,EGP 630.87,,,5.0,,,,,https://m.media-amazon.com/images/I/71p6QBb454L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DTJJKW9C,2026-03-28T15:12:04.907954
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 297.00,,,4.0,,,,,https://m.media-amazon.com/images/I/61xZwiK-BQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2K5BMFM,2026-03-28T15:12:04.908490
+amazon,,Mobaco,Mobaco,Men's Fashion,EGP 389.32,,,3.5,,,,,https://m.media-amazon.com/images/I/41JKQv67T4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B093G24DK1,2026-03-28T15:12:04.909053
+amazon,,CAESAR,CAESAR,Men's Fashion,EGP 189.00,EGP 289.00,,2.9,List:,,,,https://m.media-amazon.com/images/I/71rNGKlZ-zL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CHJVFT9Q,2026-03-28T15:12:04.909645
+amazon,,Nileton,Nileton,Men's Fashion,EGP 365.00,,,4.4,,,,,https://m.media-amazon.com/images/I/51MjIPRRUTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G1Z9L9JB,2026-03-28T15:12:04.910239
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Men's Fashion,EGP 196.20,,,,,,,,https://m.media-amazon.com/images/I/81C6imRTFiL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FPDB1N7S,2026-03-28T15:12:04.910766
+amazon,,Meza,Meza,Men's Fashion,EGP 199.00,,,2.8,,,,,https://m.media-amazon.com/images/I/61IUaGx4epL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CJYHDM3H,2026-03-28T15:12:04.911376
+amazon,,Mobaco,Mobaco,Men's Fashion,EGP 540.00,,,4.2,,,,,https://m.media-amazon.com/images/I/51yR9cIxYPL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BX6ZJ99V,2026-03-28T15:12:04.912026
+amazon,,Meza,Meza,Men's Fashion,EGP 239.00,,,1.4,,,,,https://m.media-amazon.com/images/I/71Kohky+QCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GHKLHGNX,2026-03-28T15:12:04.912680
+amazon,,White Classic,White Classic,Men's Fashion,EGP 359.99,,,4.5,,,,,https://m.media-amazon.com/images/I/719VjDS7NxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNLKTPB4,2026-03-28T15:12:04.913322
+amazon,,Mesery,Mesery,Men's Fashion,EGP 216.63,,,1.7,,,,,https://m.media-amazon.com/images/I/418nU2pwARL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CRB6M5VB,2026-03-28T15:12:04.913888
+amazon,,Meza,Meza,Men's Fashion,EGP 249.00,,,2.6,,,,,https://m.media-amazon.com/images/I/61PcpfMtFgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DNCM22BW,2026-03-28T15:12:04.914454
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 299.00,EGP 369.00,,4.6,Was:,,,,https://m.media-amazon.com/images/I/71lYV7h4O0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53XWB24,2026-03-28T15:12:04.915106
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,385.00",,,5.0,,,,,https://m.media-amazon.com/images/I/71gC9I1lBbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVT7J46H,2026-03-28T15:12:04.915727
+amazon,,Andora,Andora,Men's Fashion,EGP 279.00,,,3.2,,,,,https://m.media-amazon.com/images/I/51Q7xZ5wlYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BCYZXP37,2026-03-28T15:12:04.916359
+amazon,,Meza,Meza,Men's Fashion,EGP 225.00,,,2.4,,,,,https://m.media-amazon.com/images/I/61K0ytr2GML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DDTS28Y5,2026-03-28T15:12:04.916972
+amazon,,Andora,Andora,Men's Fashion,EGP 359.00,EGP 448.50,,3.0,List:,,,,https://m.media-amazon.com/images/I/81-AtwWb2BL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FL2SB6KK,2026-03-28T15:12:04.917620
+amazon,,Trendyol,Trendyol,Men's Fashion,EGP 332.00,"EGP 1,129.00",,3.5,List:,,,,https://m.media-amazon.com/images/I/61QSP8-v6aL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09VZHXRRC,2026-03-28T15:12:04.918315
+amazon,,Men's Slim Fit Lycra Jeans - Fashion & Comfort - Stylish Design with Medium Waist and Excellent Stretch for the Perfect Look All Day - 120,,Men's Fashion,EGP 355.11,,,3.5,,,,,https://m.media-amazon.com/images/I/61OH05dMEjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DV3RZPQZ,2026-03-28T15:12:04.918970
+amazon,,Meza,Meza,Men's Fashion,EGP 229.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71htYto6J6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F92Q1D2L,2026-03-28T15:12:04.919493
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Men's Fashion,EGP 265.00,EGP 379.00,,,List:,,,,https://m.media-amazon.com/images/I/81ua2ipAs5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FPD3W6VM,2026-03-28T15:12:04.920149
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 332.99,EGP 369.99,,3.5,Was:,,,,https://m.media-amazon.com/images/I/81ZSMkorJ1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D43DJZMH,2026-03-28T15:12:04.920898
+amazon,,Slim Fit Men's Special Sizes Jeans – High Quality Elastic Material Fashionable and Comfortable for Everyday Outings,,Men's Fashion,EGP 549.00,,,3.5,,,,,https://m.media-amazon.com/images/I/71isRUK9pGL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVB64LZQ,2026-03-28T15:12:04.921544
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,522.00",,,5.0,,,,,https://m.media-amazon.com/images/I/41tabD92jsL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVT8495Q,2026-03-28T15:12:04.922135
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,249.00",,,3.9,,,,,https://m.media-amazon.com/images/I/41UvvBaJdSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DTJGRK1Z,2026-03-28T15:12:04.922783
+amazon,,Levi's,Levi's,Men's Fashion,EGP 982.00,,,5.0,,,,,https://m.media-amazon.com/images/I/416nZbDbgxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FDR4BHKQ,2026-03-28T15:12:04.923315
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,249.00",,,5.0,,,,,https://m.media-amazon.com/images/I/710MQVrkBqL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVT76HTW,2026-03-28T15:12:04.923896
+amazon,,Meza,Meza,Men's Fashion,EGP 299.00,,,2.5,,,,,https://m.media-amazon.com/images/I/71pdhVhw1oL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F44LKGRQ,2026-03-28T15:12:04.924486
+amazon,,CLD Menswear,CLD Menswear,Men's Fashion,EGP 350.00,,,2.0,,,,,https://m.media-amazon.com/images/I/51qzQX1D5yL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FZM2KPWJ,2026-03-28T15:12:04.925102
+amazon,,Nileton,Nileton,Men's Fashion,EGP 315.00,,,4.0,,,,,https://m.media-amazon.com/images/I/51LhgygSIRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D6WHR5RD,2026-03-28T15:12:04.925777
+amazon,,Meza,Meza,Men's Fashion,EGP 249.00,,,2.5,,,,,https://m.media-amazon.com/images/I/71pd2aDG0CL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DJPB2RSH,2026-03-28T15:12:04.926364
+amazon,,CAESAR,CAESAR,Men's Fashion,EGP 189.00,EGP 289.00,,3.6,List:,,,,https://m.media-amazon.com/images/I/617tE3pIopL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CMM89C6S,2026-03-28T15:12:04.926987
+amazon,,Mobaco,Mobaco,Men's Fashion,EGP 690.00,,,4.0,,,,,https://m.media-amazon.com/images/I/5124Pk-4TFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B093G11L7H,2026-03-28T15:12:04.927564
+amazon,,Andora,Andora,Men's Fashion,EGP 390.00,,,2.9,,,,,https://m.media-amazon.com/images/I/71Be5q0pzuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BFR8QP6T,2026-03-28T15:12:09.811038
+amazon,,TIGHT STITCH,TIGHT STITCH,Men's Fashion,EGP 499.00,EGP 749.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/51lSIAiU4PL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FLYL384T,2026-03-28T15:12:09.811720
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 359.99,EGP 369.99,,3.1,List:,,,,https://m.media-amazon.com/images/I/610SUJtf2fL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G6S1Q8F4,2026-03-28T15:12:09.812393
+amazon,,Mobaco,Mobaco,Men's Fashion,EGP 519.00,,,4.2,,,,,https://m.media-amazon.com/images/I/41eqI0JbD+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BX6ZSVML,2026-03-28T15:12:09.813049
+amazon,,Meza,Meza,Men's Fashion,EGP 249.00,,,2.0,,,,,https://m.media-amazon.com/images/I/51dpRgfO0FL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DZD7ZTRZ,2026-03-28T15:12:09.813553
+amazon,,White Classic,White Classic,Men's Fashion,EGP 359.99,,,4.4,,,,,https://m.media-amazon.com/images/I/61EEcKnG0yL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FKNNC93Q,2026-03-28T15:12:09.814258
+amazon,,Meza,Meza,Men's Fashion,EGP 220.00,,,2.2,,,,,https://m.media-amazon.com/images/I/61YwJPWojUL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F3W8KLV4,2026-03-28T15:12:09.814967
+amazon,,adidas,adidas,Men's Fashion,"EGP 1,593.00","EGP 2,099.00",,4.0,List:,,,,https://m.media-amazon.com/images/I/51wQuLMzg6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DLJLM97R,2026-03-28T15:12:09.815620
+amazon,,Mobaco,Mobaco,Men's Fashion,EGP 519.00,,,4.2,,,,,https://m.media-amazon.com/images/I/51K5IcK9MRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B093G1LXGT,2026-03-28T15:12:09.816273
+amazon,,Mesery,Mesery,Men's Fashion,EGP 260.13,EGP 269.10,,4.4,Was:,,,,https://m.media-amazon.com/images/I/41wWQ3mEZuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CRB69S5B,2026-03-28T15:12:09.816929
+amazon,,Meza,Meza,Men's Fashion,EGP 355.00,,,2.5,,,,,https://m.media-amazon.com/images/I/61RzWZoSNwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B11VTWXH,2026-03-28T15:12:09.817560
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 350.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41NcoMxqcrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT98VYJW,2026-03-28T15:12:09.818102
+amazon,,KOTON,KOTON,Men's Fashion,EGP 769.60,,,3.0,,,,,https://m.media-amazon.com/images/I/714aqmUKXnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DT7PWW61,2026-03-28T15:12:09.818811
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,522.00",,,,,,,,https://m.media-amazon.com/images/I/71AHhyh4bUL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVT72R2F,2026-03-28T15:12:09.819343
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 431.99,EGP 479.99,,3.5,Was:,,,,https://m.media-amazon.com/images/I/71GndtAI9kL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DBGT8F2J,2026-03-28T15:12:09.820095
+amazon,,Meza,Meza,Men's Fashion,EGP 179.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71HKq8q5-sL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FL137K47,2026-03-28T15:12:09.820610
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 233.99,EGP 259.99,,3.9,Was:,,,,https://m.media-amazon.com/images/I/71o1TDrqYFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXNBMHYL,2026-03-28T15:12:09.821283
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 314.99,EGP 349.99,,3.2,List:,,,,https://m.media-amazon.com/images/I/610ejAqerWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR87FWTV,2026-03-28T15:12:09.821998
+amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Men's Fashion,EGP 329.99,,,4.0,,,,,https://m.media-amazon.com/images/I/41w-6BPNf-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CSPPV2H5,2026-03-28T15:12:09.822615
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 179.10,EGP 199.00,,3.7,Was:,,,,https://m.media-amazon.com/images/I/71gdlGX7UTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FCCHDN9V,2026-03-28T15:12:09.823334
+amazon,,Sotex,Sotex,Men's Fashion,EGP 321.00,EGP 359.00,,3.8,List:,,,,https://m.media-amazon.com/images/I/51EmJ70F9dL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D2D86R5L,2026-03-28T15:12:09.824071
+amazon,,Nileton,Nileton,Men's Fashion,EGP 365.00,,,4.4,,,,,https://m.media-amazon.com/images/I/51GERLfw-BL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9YPN5TR,2026-03-28T15:12:09.824642
+amazon,,adidas,adidas,Men's Fashion,"EGP 1,346.00",,,5.0,,,,,https://m.media-amazon.com/images/I/71GB0SzFWuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DLHG8T91,2026-03-28T15:12:09.825242
+amazon,,RUNIC,RUNIC,Men's Fashion,EGP 440.10,EGP 489.00,,5.0,Was:,,,,https://m.media-amazon.com/images/I/71UsPlJhm7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BWYG3SYS,2026-03-28T15:12:09.825885
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 447.00,,,2.6,,,,,https://m.media-amazon.com/images/I/71hXvztuQsL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FM49J66G,2026-03-28T15:12:09.826398
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 299.00,EGP 349.30,,4.2,Was:,,,,https://m.media-amazon.com/images/I/410qBpV9gTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53XBXLR,2026-03-28T15:12:09.827091
+amazon,,Andora,Andora,Men's Fashion,EGP 411.76,,,3.6,,,,,https://m.media-amazon.com/images/I/61CvwqXpaZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09SWWYDYF,2026-03-28T15:12:09.827770
+amazon,,"Men's Cotton Spandex T-Shirt, Athletic Fit, Premium Soft Fabric",,Men's Fashion,EGP 229.99,EGP 250.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/41BFGgrpH2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DZV4T9W8,2026-03-28T15:12:09.828501
+amazon,,Andora,Andora,Men's Fashion,EGP 299.00,EGP 449.00,,3.8,List:,,,,https://m.media-amazon.com/images/I/61dELjEBpdL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CYXXRC5N,2026-03-28T15:12:09.829240
+amazon,,Dice,Dice,Men's Fashion,EGP 264.00,EGP 309.00,,4.1,List:,,,,https://m.media-amazon.com/images/I/61MOkcM4d5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B08WJN8QNM,2026-03-28T15:12:09.829913
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,385.00",,,5.0,,,,,https://m.media-amazon.com/images/I/81RV0Txzk7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVT773R7,2026-03-28T15:12:09.830421
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,217.89",,,4.0,,,,,https://m.media-amazon.com/images/I/71q-UbWwvNL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BPR2ZVJS,2026-03-28T15:12:09.831032
+amazon,,Mobaco,Mobaco,Men's Fashion,EGP 540.00,,,4.2,,,,,https://m.media-amazon.com/images/I/51sOMsz+V4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BX6VSDDX,2026-03-28T15:12:09.831583
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 599.00,,,1.0,,,,,https://m.media-amazon.com/images/I/61CgdMW-szL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL2J6S3Y,2026-03-28T15:12:09.832116
+amazon,,Dice,Dice,Men's Fashion,EGP 279.00,,,4.3,,,,,https://m.media-amazon.com/images/I/512OWeI6b1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B08WJN9JP4,2026-03-28T15:12:09.832673
+amazon,,Cottonil,Cottonil,Men's Fashion,EGP 234.00,EGP 249.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/41f1kCdnHhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BDG69HCP,2026-03-28T15:12:09.833372
+amazon,,Mesery,Mesery,Men's Fashion,EGP 286.23,EGP 329.00,,3.4,Was:,,,,https://m.media-amazon.com/images/I/4136BD2v5PL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4WX376C,2026-03-28T15:12:09.834007
+amazon,,CAESAR,CAESAR,Men's Fashion,EGP 255.36,EGP 309.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/71R6EP16I+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BVRZHWFW,2026-03-28T15:12:09.834645
+amazon,,Mesery,Mesery,Men's Fashion,EGP 131.12,EGP 149.00,,4.1,Was:,,,,https://m.media-amazon.com/images/I/41yS9Mn752L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B857LB8C,2026-03-28T15:12:09.835272
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,665.00",,,,,,,,https://m.media-amazon.com/images/I/51HEkQ827LL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVT7CDXY,2026-03-28T15:12:09.835847
+amazon,,Meza,Meza,Men's Fashion,EGP 355.00,,,2.6,,,,,https://m.media-amazon.com/images/I/61jDa2CD8mL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09YVL8BJZ,2026-03-28T15:12:09.836432
+amazon,,TRUST WEAR,TRUST WEAR,Men's Fashion,EGP 450.00,,,4.6,,,,,https://m.media-amazon.com/images/I/318T4u9JKgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR3RS7PR,2026-03-28T15:12:09.837053
+amazon,,White Eagle,White Eagle,Men's Fashion,EGP 350.99,EGP 379.99,,3.5,List:,,,,https://m.media-amazon.com/images/I/71NnscvG39L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNXMTQR3,2026-03-28T15:12:09.837722
+amazon,,adidas,adidas,Men's Fashion,"EGP 1,103.00",,,,,,,,https://m.media-amazon.com/images/I/81DmRC0mu0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FCSHRPWM,2026-03-28T15:12:09.838209
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 899.00,,,1.0,,,,,https://m.media-amazon.com/images/I/61XuEOGXACL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X37FD5,2026-03-28T15:12:09.838760
+amazon,,LC WAIKIKI,LC WAIKIKI,Men's Fashion,EGP 623.00,EGP 639.00,,4.0,Was:,,,,https://m.media-amazon.com/images/I/616ZcSrycJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL32LVPJ,2026-03-28T15:12:09.839370
+amazon,,ترنج شورت رجالي من ميزة تصميم مميز,,Men's Fashion,EGP 299.00,,,2.6,,,,,https://m.media-amazon.com/images/I/51rhCutmvvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D2BMMW56,2026-03-28T15:12:09.840036
+amazon,,Levi's,Levi's,Men's Fashion,"EGP 1,805.00",,,4.7,,,,,https://m.media-amazon.com/images/I/51Dqq1fupJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09QGVW851,2026-03-28T15:12:09.840622
+amazon,,"Mila Women's Winter Pullover - Premium Knitwear Sweater Pullover for Women - Chic, Warm & Stylish - Perfect Holiday & Special Occasion Gift - One Size fits Most – بلوفر حريمي شتوي",,Women's Fashion,EGP 299.99,EGP 329.39,,4.6,Was:,,,,https://m.media-amazon.com/images/I/715iM+eJX3L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FY4HZFJQ,2026-03-28T15:11:59.696868
+amazon,,ROMBA SPORT,ROMBA SPORT,Women's Fashion,EGP 539.10,EGP 599.00,,3.6,Was:,,,,https://m.media-amazon.com/images/I/61Jhv-uAe+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DY6QFBVD,2026-03-28T15:11:59.697690
+amazon,,Dice,Dice,Women's Fashion,EGP 126.00,EGP 135.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/21AjEVArDvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTXF7DWK,2026-03-28T15:11:59.698537
+amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 249.99,,,3.0,,,,,https://m.media-amazon.com/images/I/41cBCHg83HL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F76QQP38,2026-03-28T15:11:59.699193
+amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 249.99,,,3.0,,,,,https://m.media-amazon.com/images/I/41akK2jCS0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F75SSQJM,2026-03-28T15:11:59.699800
+amazon,,Meza,Meza,Women's Fashion,EGP 202.50,EGP 225.00,,4.1,Was:,,,,https://m.media-amazon.com/images/I/71f5gx3AVmL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2M6W8F2,2026-03-28T15:11:59.700549
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 310.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51YXzcHgBtL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXX6Y21K,2026-03-28T15:11:59.701094
+amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Women's Fashion,EGP 260.00,,,3.2,,,,,https://m.media-amazon.com/images/I/61cmbZpTWjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FM8HN15N,2026-03-28T15:11:59.701761
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 247.00,,,4.0,,,,,https://m.media-amazon.com/images/I/51L2fGbSxJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL38DST1,2026-03-28T15:11:59.702318
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 271.00,,,5.0,,,,,https://m.media-amazon.com/images/I/71JeVXurIVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL324FH2,2026-03-28T15:11:59.702821
+amazon,,Hi Cool Womens Winter Pullover Turtleneck Pullover for Women - Various Colors to Choose and Nature Photo Attachment,,Women's Fashion,EGP 275.00,EGP 350.00,,3.2,Was:,,,,https://m.media-amazon.com/images/I/51XwBRMAiBL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DMZF2R1H,2026-03-28T15:11:59.703533
+amazon,,Andora,Andora,Women's Fashion,EGP 499.00,EGP 748.50,,3.7,List:,,,,https://m.media-amazon.com/images/I/81GyNETMVbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FL2WD77D,2026-03-28T15:11:59.704279
+amazon,,Elegant & Comfortable Floral Pattern Trousers - Perfect for Any Occasion,,Women's Fashion,EGP 145.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41+Q-feSyfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWD28DBP,2026-03-28T15:11:59.704788
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 213.19,EGP 689.00,,5.0,List:,,,,https://m.media-amazon.com/images/I/61jOjlG6w9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWT8XW93,2026-03-28T15:11:59.705474
+amazon,,Meza,Meza,Women's Fashion,EGP 112.50,EGP 125.00,,4.0,Was:,,,,https://m.media-amazon.com/images/I/81DWa-6bjgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNMWR1HY,2026-03-28T15:11:59.706230
+amazon,,Mosca Women's Wear,Mosca Women's Wear,Women's Fashion,EGP 395.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41oVkdpBBgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FW18PVGK,2026-03-28T15:11:59.706731
+amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 249.99,,,3.0,,,,,https://m.media-amazon.com/images/I/41TOTnEGG1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F76M4YXX,2026-03-28T15:11:59.707362
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 799.00,,,,,,,,https://m.media-amazon.com/images/I/518J53sLQrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X42XYM,2026-03-28T15:11:59.707796
+amazon,,Skirt Klosh For Women - Beige,,Women's Fashion,EGP 299.00,,,4.2,,,,,https://m.media-amazon.com/images/I/61i04WJvSXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DHLQBQSK,2026-03-28T15:11:59.708329
+amazon,,Women's Long Cardigan Multi Color Long Sleeve Blro Women's Wool Cardigan,,Women's Fashion,EGP 600.00,EGP 699.00,,2.9,Was:,,,,https://m.media-amazon.com/images/I/51Ep5kFFB4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWNKVT9B,2026-03-28T15:11:59.708907
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 815.00,,,4.7,,,,,https://m.media-amazon.com/images/I/71H9K+XeDvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4T15MB1,2026-03-28T15:11:59.709544
+amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Women's Fashion,EGP 429.99,,,,,,,,https://m.media-amazon.com/images/I/51+IWInxzTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GPR672WP,2026-03-28T15:11:59.710135
+amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 249.99,,,2.7,,,,,https://m.media-amazon.com/images/I/51Zq9+rS3PL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F84LL4C2,2026-03-28T15:11:59.710740
+amazon,,Women's Lingerie Set Lace V-neck Bodysuit with Panty,,Women's Fashion,EGP 278.26,,,4.5,,,,,https://m.media-amazon.com/images/I/410EL86DsPL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FMXNDG5Q,2026-03-28T15:11:59.711270
+amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 199.99,,,3.2,,,,,https://m.media-amazon.com/images/I/416kdcClt9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F76C24W1,2026-03-28T15:11:59.711887
+amazon,,Mesery,Mesery,Women's Fashion,EGP 263.12,EGP 299.00,,4.1,Was:,,,,https://m.media-amazon.com/images/I/51XAAs25oaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4WDWMRC,2026-03-28T15:11:59.712516
+amazon,,Meza,Meza,Women's Fashion,EGP 233.10,,,3.7,,,,,https://m.media-amazon.com/images/I/814J6YdPWxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F7HZZHM9,2026-03-28T15:11:59.713056
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 419.00,EGP 485.00,,3.0,Was:,,,,https://m.media-amazon.com/images/I/61rqs5gpx1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F8QS9TW6,2026-03-28T15:11:59.713659
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 351.00,,,2.9,,,,,https://m.media-amazon.com/images/I/61aHF9AcdcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FK3SBDVP,2026-03-28T15:11:59.714182
+amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,2.9,,,,,https://m.media-amazon.com/images/I/61q9Fdo2p4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXD8LW8P,2026-03-28T15:11:59.714780
+amazon,,Andora,Andora,Women's Fashion,EGP 499.00,EGP 749.00,,3.6,List:,,,,https://m.media-amazon.com/images/I/61AVnY46E4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DF5JLV3D,2026-03-28T15:11:59.715489
+amazon,,ONLY,ONLY,Women's Fashion,EGP 549.00,"EGP 1,479.00",,4.0,List:,,,,https://m.media-amazon.com/images/I/81sUhmRLgsL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8DBGB5J,2026-03-28T15:11:59.716202
+amazon,,Ribbed Knit Regular Neck Long Sleeve T-shirt for Women - Slim Fit Button Down,,Women's Fashion,EGP 249.99,,,3.2,,,,,https://m.media-amazon.com/images/I/61nF1zyOcYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DF9LCYXY,2026-03-28T15:11:59.716805
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 519.00,,,,,,,,https://m.media-amazon.com/images/I/41phhuPjnDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4WYWZPL,2026-03-28T15:11:59.717321
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 565.00,,,,,,,,https://m.media-amazon.com/images/I/71g4dPXSsWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B15MN992,2026-03-28T15:11:59.717782
+amazon,,Andora,Andora,Women's Fashion,EGP 541.00,,,4.2,,,,,https://m.media-amazon.com/images/I/81fw1xlzZNL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHL15BQC,2026-03-28T15:11:59.718420
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 299.00,EGP 309.00,,4.0,Was:,,,,https://m.media-amazon.com/images/I/6146S7ij6xL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X5LH3Z,2026-03-28T15:11:59.719043
+amazon,,TIGHT STITCH,TIGHT STITCH,Women's Fashion,EGP 199.00,,,2.9,,,,,https://m.media-amazon.com/images/I/41mhalr7VCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXXG6W7Z,2026-03-28T15:11:59.719613
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 440.00,,,,,,,,https://m.media-amazon.com/images/I/41Mh7vfnYAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2K4KCSF,2026-03-28T15:11:59.720076
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 584.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41xy-iLwraL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X48242,2026-03-28T15:11:59.720605
+amazon,,Mesery,Mesery,Women's Fashion,EGP 260.13,EGP 269.10,,4.2,Was:,,,,https://m.media-amazon.com/images/I/41TA8g+yTyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8H1YW35,2026-03-28T15:11:59.721228
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 527.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51Pv5PhTIVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS28WXBH,2026-03-28T15:11:59.721729
+amazon,,MARTINA STORE,MARTINA STORE,Women's Fashion,EGP 199.99,,,3.8,,,,,https://m.media-amazon.com/images/I/61igJQdUq-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F85TTJGM,2026-03-28T15:11:59.722366
+amazon,,Ultra Soft Cotton Lace Bodystocking Lingerie For Womens,,Women's Fashion,EGP 215.65,,,4.4,,,,,https://m.media-amazon.com/images/I/414GOCnIZzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FG7FTG25,2026-03-28T15:11:59.722856
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 401.00,,,,,,,,https://m.media-amazon.com/images/I/41kR0O5GzSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS27QYFW,2026-03-28T15:11:59.723350
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 449.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81gCrSWRAfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X6C9F4,2026-03-28T15:11:59.723870
+amazon,,Meza,Meza,Women's Fashion,EGP 350.10,EGP 389.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/61xn8I+NFfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNNBBM6C,2026-03-28T15:11:59.724606
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 344.00,,,,,,,,https://m.media-amazon.com/images/I/31mF61omriL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXXBLG6B,2026-03-28T15:11:59.725084
+amazon,,DALY,DALY,Women's Fashion,EGP 467.50,,,4.2,,,,,https://m.media-amazon.com/images/I/71suPUcIWyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9WJMC1Y,2026-03-28T15:12:03.427186
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 339.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51IOUqO4AXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXX56V8L,2026-03-28T15:12:03.427717
+amazon,,Mosca Women's Wear,Mosca Women's Wear,Women's Fashion,EGP 399.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41bs7THIwKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FW1SJ485,2026-03-28T15:12:03.428327
+amazon,,Meza,Meza,Women's Fashion,EGP 359.10,EGP 399.00,,3.9,Was:,,,,https://m.media-amazon.com/images/I/71-oHdN5csL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4VHRML8,2026-03-28T15:12:03.428987
+amazon,,Dice,Dice,Women's Fashion,EGP 113.00,EGP 119.00,,4.4,List:,,,,https://m.media-amazon.com/images/I/61rqG5ipTsL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BVRTTDT2,2026-03-28T15:12:03.429733
+amazon,,Meza,Meza,Women's Fashion,EGP 382.50,EGP 399.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/71WjGreEYOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9XQ3K5T,2026-03-28T15:12:03.430467
+amazon,,Mesery,Mesery,Women's Fashion,EGP 260.13,,,3.6,,,,,https://m.media-amazon.com/images/I/61EsypHm2JL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D97ZWDHB,2026-03-28T15:12:03.430995
+amazon,,"Bodytalk BDTK Sport Pants for Women, Cotton, Black, L",,Women's Fashion,EGP 261.00,EGP 290.00,,3.6,Was:,,,,https://m.media-amazon.com/images/I/51jr3AT0gjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C8FY6DLC,2026-03-28T15:12:03.431645
+amazon,,Meza,Meza,Women's Fashion,EGP 129.00,,,3.3,,,,,https://m.media-amazon.com/images/I/61Wd2m31IeL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHL3SSQV,2026-03-28T15:12:03.432298
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 915.00,,,,,,,,https://m.media-amazon.com/images/I/61mmX-ftXfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR3F1WM3,2026-03-28T15:12:03.432755
+amazon,,2pcs Round Neck Long Sleeve Sweatshirt Printed And Sweatpants Winter Cotton Set Women's Casual,,Women's Fashion,EGP 859.99,EGP 999.99,,2.8,List:,,,,https://m.media-amazon.com/images/I/51lV3bWZAwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWKR92HW,2026-03-28T15:12:03.433438
+amazon,,Meza,Meza,Women's Fashion,EGP 170.10,EGP 189.00,,3.8,Was:,,,,https://m.media-amazon.com/images/I/61txP4jbguL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR5GQPNP,2026-03-28T15:12:03.434173
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 545.00,,,,,,,,https://m.media-amazon.com/images/I/61sPlMa5NJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X3JJG9,2026-03-28T15:12:03.434647
+amazon,,Meza,Meza,Women's Fashion,EGP 269.10,EGP 299.00,,3.2,Was:,,,,https://m.media-amazon.com/images/I/61bAixVdYhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D7TLWCJM,2026-03-28T15:12:03.435382
+amazon,,Meza,Meza,Women's Fashion,EGP 425.00,,,3.0,,,,,https://m.media-amazon.com/images/I/51KCpruwqhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTZQVXBC,2026-03-28T15:12:03.435870
+amazon,,Nileton,Nileton,Women's Fashion,EGP 315.00,,,4.1,,,,,https://m.media-amazon.com/images/I/419HWG9ysML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B36D8FYL,2026-03-28T15:12:03.436516
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 835.00,,,,,,,,https://m.media-amazon.com/images/I/61dkaZx2laL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B6GKY5WW,2026-03-28T15:12:03.436945
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 599.00,,,,,,,,https://m.media-amazon.com/images/I/31JdbRW6gnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X47QQ1,2026-03-28T15:12:03.437425
+amazon,,BeNeshty,BeNeshty,Women's Fashion,EGP 262.00,,,,,,,,https://m.media-amazon.com/images/I/61gP-8a3eHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DSWMS84Q,2026-03-28T15:12:03.437887
+amazon,,KOTON,KOTON,Women's Fashion,EGP 856.00,,,,,,,,https://m.media-amazon.com/images/I/815WuZ2jBkL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D57LT3BG,2026-03-28T15:12:03.438340
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 545.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71S+r6pB4sL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK9BH29R,2026-03-28T15:12:03.438848
+amazon,,KOTON,KOTON,Women's Fashion,EGP 983.94,,,5.0,,,,,https://m.media-amazon.com/images/I/611Y5w9WRrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CSX46F4Z,2026-03-28T15:12:03.439382
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 389.00,,,,,,,,https://m.media-amazon.com/images/I/611x7EWvLoL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT3K3KHR,2026-03-28T15:12:03.439843
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 239.00,,,,,,,,https://m.media-amazon.com/images/I/610Udke80gL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X2LLDD,2026-03-28T15:12:03.440326
+amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,2.9,,,,,https://m.media-amazon.com/images/I/61Ar3sQVM4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F1LWG9KM,2026-03-28T15:12:03.440946
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 267.00,EGP 599.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/61Tmo9t15sL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BTT9GYXS,2026-03-28T15:12:03.441608
+amazon,,Meza,Meza,Women's Fashion,EGP 269.00,,,2.9,,,,,https://m.media-amazon.com/images/I/71K1OpEtjOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CYCQ38VP,2026-03-28T15:12:03.442175
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 623.00,EGP 799.00,,,List:,,,,https://m.media-amazon.com/images/I/617n-AndRUL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK25LBY1,2026-03-28T15:12:03.442696
+amazon,,Meza,Meza,Women's Fashion,EGP 220.50,EGP 245.00,,4.2,Was:,,,,https://m.media-amazon.com/images/I/61QC0fXlxpL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DYF3KQH6,2026-03-28T15:12:03.443401
+amazon,,GuLiNiao,GuLiNiao,Women's Fashion,EGP 726.74,EGP 899.99,,3.0,Was:,,,,https://m.media-amazon.com/images/I/71BAs1RpAuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F48YZ52Q,2026-03-28T15:12:03.443997
+amazon,,Meza,Meza,Women's Fashion,EGP 350.10,,,4.3,,,,,https://m.media-amazon.com/images/I/71JQw-5pAKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F12HVF1X,2026-03-28T15:12:03.444598
+amazon,,Mesery,Mesery,Women's Fashion,EGP 260.13,EGP 269.10,,3.7,Was:,,,,https://m.media-amazon.com/images/I/51T8Ln1RmYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CQYM64TV,2026-03-28T15:12:03.445198
+amazon,,Women's Collared Crop Top Sleeveless Rib Top,,Women's Fashion,EGP 199.99,,,3.5,,,,,https://m.media-amazon.com/images/I/41wAMORIpDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR3H4QY3,2026-03-28T15:12:03.445750
+amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,3.1,,,,,https://m.media-amazon.com/images/I/61v8gbdiA6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D6ND4ZJS,2026-03-28T15:12:03.446410
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 419.00,,,,,,,,https://m.media-amazon.com/images/I/812TlBuHb4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTB3W1SD,2026-03-28T15:12:03.446863
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 669.00,,,,,,,,https://m.media-amazon.com/images/I/81dZxyem+iL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT9GH6FX,2026-03-28T15:12:03.447344
+amazon,,ISTANBUL MODEL,ISTANBUL MODEL,Women's Fashion,EGP 116.10,,,3.7,,,,,https://m.media-amazon.com/images/I/71XmhxFtbuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNL34P83,2026-03-28T15:12:03.447948
+amazon,,AJYAL,AJYAL,Women's Fashion,EGP 176.00,EGP 200.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/31HRheqD-nL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9772R89,2026-03-28T15:12:03.448654
+amazon,,Andora,Andora,Women's Fashion,EGP 400.00,,,3.8,,,,,https://m.media-amazon.com/images/I/712I-6RodwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D942W7LJ,2026-03-28T15:12:03.449284
+amazon,,DeFacto,DeFacto,Women's Fashion,EGP 936.00,,,,,,,,https://m.media-amazon.com/images/I/61qlyd9NENL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FCXYF2JD,2026-03-28T15:12:03.449716
+amazon,,Meza,Meza,Women's Fashion,EGP 179.10,EGP 199.00,,4.1,List:,,,,https://m.media-amazon.com/images/I/51KMugmrHEL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FGDVC11B,2026-03-28T15:12:03.450421
+amazon,,ZECOTEX,ZECOTEX,Women's Fashion,EGP 200.00,EGP 400.00,,3.3,List:,,,,https://m.media-amazon.com/images/I/71lgXq4kjBL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FD3LKQG7,2026-03-28T15:12:03.451127
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 339.00,,,3.0,,,,,https://m.media-amazon.com/images/I/411noOyFcVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTB3TPJY,2026-03-28T15:12:03.451640
+amazon,,Mamilly Jeans,Mamilly Jeans,Women's Fashion,EGP 600.00,,,3.5,,,,,https://m.media-amazon.com/images/I/61TuWhK5fxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CWS9CVV5,2026-03-28T15:12:03.452238
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 519.00,,,1.0,,,,,https://m.media-amazon.com/images/I/61v1c4AU7JL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DQJJJZZ8,2026-03-28T15:12:03.452730
+amazon,,Nileton,Nileton,Women's Fashion,EGP 425.00,,,4.2,,,,,https://m.media-amazon.com/images/I/51Xjcw5ryRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BH1CGRVH,2026-03-28T15:12:03.453347
+amazon,,Cottonil,Cottonil,Women's Fashion,EGP 131.00,EGP 159.00,,4.2,List:,,,,https://m.media-amazon.com/images/I/41xAPWNn9XL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DGWKPW6X,2026-03-28T15:12:03.453974
+amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71Nm2s1m+cL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DBGJPT3J,2026-03-28T15:12:03.454562
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 599.00,,,5.0,,,,,https://m.media-amazon.com/images/I/71ApGTuU+vL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR9CVM4Q,2026-03-28T15:12:07.370633
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 333.00,,,2.2,,,,,https://m.media-amazon.com/images/I/612XgUuPLgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FH757QC6,2026-03-28T15:12:07.377373
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 470.00,EGP 889.00,,3.4,List:,,,,https://m.media-amazon.com/images/I/61od1R6d-sL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09RB8BQQC,2026-03-28T15:12:07.378812
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 567.00,,,3.5,,,,,https://m.media-amazon.com/images/I/61Nr0fPSPWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09RB71FSR,2026-03-28T15:12:07.379558
+amazon,,Premoda,Premoda,Women's Fashion,EGP 199.00,,,4.0,,,,,https://m.media-amazon.com/images/I/510k2j-IEFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CW1WQKVP,2026-03-28T15:12:07.380672
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 269.00,,,,,,,,https://m.media-amazon.com/images/I/61GolkUJ25L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FH7614KB,2026-03-28T15:12:07.381189
+amazon,,ONLY,ONLY,Women's Fashion,EGP 652.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81konc8d3ZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8BR1CFS,2026-03-28T15:12:07.382350
+amazon,,Meza,Meza,Women's Fashion,EGP 233.10,EGP 259.00,,2.6,List:,,,,https://m.media-amazon.com/images/I/51YfAORV7PL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G7K4XJT2,2026-03-28T15:12:07.383070
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 699.00,,,1.0,,,,,https://m.media-amazon.com/images/I/31JyDXRaQAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT99Q666,2026-03-28T15:12:07.383578
+amazon,,KOTON,KOTON,Women's Fashion,"EGP 1,319.29",,,,,,,,https://m.media-amazon.com/images/I/71xiH+CTpCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CPLGSCQZ,2026-03-28T15:12:07.386554
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 199.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61XawgAPUCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT97MGDP,2026-03-28T15:12:07.387098
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 739.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71R8QuKAAwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BBGD6HFV,2026-03-28T15:12:07.387648
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 329.00,,,,,,,,https://m.media-amazon.com/images/I/41P16v54nVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4WJVLZH,2026-03-28T15:12:07.388142
+amazon,,KOTON,KOTON,Women's Fashion,EGP 867.27,,,,,,,,https://m.media-amazon.com/images/I/81c7IyG3H1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CWXSS1JJ,2026-03-28T15:12:07.388640
+amazon,,Nileton,Nileton,Women's Fashion,EGP 425.00,,,4.2,,,,,https://m.media-amazon.com/images/I/419TOiwz4JL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BH1CHMK9,2026-03-28T15:12:07.389273
+amazon,,Meza,Meza,Women's Fashion,EGP 179.10,EGP 199.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/51q+CsPyzJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CVH8P772,2026-03-28T15:12:07.389936
+amazon,,Women's Winter Hooded and Pants Set - Fashion Solid Color Design - Soft Material and Pockets for Daily Warmth and Comfort,,Women's Fashion,EGP 349.00,EGP 449.00,,1.0,Was:,,,,https://m.media-amazon.com/images/I/31lchxI6kUL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXSRL924,2026-03-28T15:12:07.390561
+amazon,,Meza,Meza,Women's Fashion,EGP 341.10,,,3.3,,,,,https://m.media-amazon.com/images/I/61CtJaJIAoL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FQ66LFLJ,2026-03-28T15:12:07.391113
+amazon,,ONLY,ONLY,Women's Fashion,EGP 871.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81aYtMqC2gL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C5JKPVBL,2026-03-28T15:12:07.391693
+amazon,,Nileton,Nileton,Women's Fashion,EGP 399.00,,,4.2,,,,,https://m.media-amazon.com/images/I/61JzTqWLLGL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CTHXQLW2,2026-03-28T15:12:07.392317
+amazon,,CAESAR,CAESAR,Women's Fashion,EGP 377.00,,,3.5,,,,,https://m.media-amazon.com/images/I/61dnGOHBFtL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BD4Z6SC5,2026-03-28T15:12:07.392850
+amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,3.0,,,,,https://m.media-amazon.com/images/I/61WZNJDCQML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFVS1LDN,2026-03-28T15:12:07.393472
+amazon,,Meza,Meza,Women's Fashion,EGP 359.10,EGP 399.00,,,List:,,,,https://m.media-amazon.com/images/I/71BT7IgWRHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL8V9N53,2026-03-28T15:12:07.394069
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 776.00,,,4.5,,,,,https://m.media-amazon.com/images/I/61SNLzvMouL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWT3K5MK,2026-03-28T15:12:07.394626
+amazon,,Meza,Meza,Women's Fashion,EGP 350.10,EGP 389.00,,2.4,List:,,,,https://m.media-amazon.com/images/I/619Lb+loUeL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4NJBWCW,2026-03-28T15:12:07.395294
+amazon,,Comodo,Comodo,Women's Fashion,EGP 385.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51nPav715dL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FX5K2GY8,2026-03-28T15:12:07.395846
+amazon,,ROMBA SPORT,ROMBA SPORT,Women's Fashion,EGP 319.50,EGP 355.00,,2.8,List:,,,,https://m.media-amazon.com/images/I/719cyt9yvGL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F7GKPJGJ,2026-03-28T15:12:07.396559
+amazon,,ONLY,ONLY,Women's Fashion,EGP 871.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81dl-X4Vu2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8C2SHWR,2026-03-28T15:12:07.397156
+amazon,,ONLY,ONLY,Women's Fashion,"EGP 1,322.00",,,,,,,,https://m.media-amazon.com/images/I/81OSZXxK45L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8JCN7S7,2026-03-28T15:12:07.397631
+amazon,,Meza,Meza,Women's Fashion,EGP 179.10,,,3.5,,,,,https://m.media-amazon.com/images/I/51yetF7lCTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FK3T8HDG,2026-03-28T15:12:07.398212
+amazon,,Dabbagh,Dabbagh,Women's Fashion,EGP 199.00,,,3.5,,,,,https://m.media-amazon.com/images/I/71PeKA2EUZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G3J54RPR,2026-03-28T15:12:07.398826
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 454.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51-9FFnZtqL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL35FFBD,2026-03-28T15:12:12.340284
+amazon,,BEBO,BEBO,Women's Fashion,EGP 445.00,,,4.7,,,,,https://m.media-amazon.com/images/I/41Z-OCmuIyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DYK5NZZZ,2026-03-28T15:12:12.341950
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 457.00,,,2.2,,,,,https://m.media-amazon.com/images/I/61ITt5nFqtL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09RB7MDVS,2026-03-28T15:12:12.342492
+amazon,,KOTON,KOTON,Women's Fashion,"EGP 1,234.00",,,,,,,,https://m.media-amazon.com/images/I/71pbEwh38RL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CWYKZ34J,2026-03-28T15:12:12.342918
+amazon,,ONLY,ONLY,Women's Fashion,EGP 266.54,,,5.0,,,,,https://m.media-amazon.com/images/I/611gxuFy0fL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D3L661RB,2026-03-28T15:12:12.344686
+amazon,,KOTON,KOTON,Women's Fashion,EGP 271.31,,,,,,,,https://m.media-amazon.com/images/I/61SgborRbDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CSY8MP21,2026-03-28T15:12:12.345665
+amazon,,Levi's,Levi's,Women's Fashion,"EGP 1,938.00",,,5.0,,,,,https://m.media-amazon.com/images/I/51BJX3P0-XL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CG4NLY4M,2026-03-28T15:12:12.346198
+amazon,,Levi's,Levi's,Women's Fashion,"EGP 2,215.00","EGP 3,729.00",,5.0,List:,,,,https://m.media-amazon.com/images/I/91obgmgt9iL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVT51VD8,2026-03-28T15:12:12.346805
+amazon,,Meza,Meza,Women's Fashion,EGP 299.00,,,3.0,,,,,https://m.media-amazon.com/images/I/61FR8FOMqtL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVRGSHJS,2026-03-28T15:12:12.349164
+amazon,,Meza,Meza,Women's Fashion,EGP 206.10,,,3.3,,,,,https://m.media-amazon.com/images/I/61Mke5l1OCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D42BV68R,2026-03-28T15:12:12.349715
+amazon,,Lasso,Lasso,Women's Fashion,EGP 149.00,,,2.9,,,,,https://m.media-amazon.com/images/I/41uNb66pxvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09NYK2T3K,2026-03-28T15:12:12.350837
+amazon,,ONLY,ONLY,Women's Fashion,EGP 839.00,,,,,,,,https://m.media-amazon.com/images/I/71zoiYYh3TL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CR6GXL4S,2026-03-28T15:12:12.351307
+amazon,,Nileton,Nileton,Women's Fashion,EGP 245.00,EGP 275.00,,3.9,Was:,,,,https://m.media-amazon.com/images/I/518m2ldBTaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B9SXQT24,2026-03-28T15:12:12.352700
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 419.00,,,3.4,,,,,https://m.media-amazon.com/images/I/61tQXhq3m7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT3FQ3KD,2026-03-28T15:12:12.354960
+amazon,,Meza,Meza,Women's Fashion,EGP 233.10,,,3.4,,,,,https://m.media-amazon.com/images/I/710ZPHlXd3L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F52R2NKN,2026-03-28T15:12:12.355604
+amazon,,Cottonil,Cottonil,Women's Fashion,EGP 133.00,,,4.3,,,,,https://m.media-amazon.com/images/I/51k9GvyAgHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BDVJ2GHR,2026-03-28T15:12:12.356209
+amazon,,Meza,Meza,Women's Fashion,EGP 399.00,,,2.8,,,,,https://m.media-amazon.com/images/I/71hstrXhU9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTZVGZ7B,2026-03-28T15:12:12.357309
+amazon,,Silvy,Silvy,Women's Fashion,EGP 135.00,,,4.0,,,,,https://m.media-amazon.com/images/I/513tl9LkesL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BST3ZGBM,2026-03-28T15:12:12.357803
+amazon,,Mesery,Mesery,Women's Fashion,EGP 263.12,EGP 299.00,,3.7,Was:,,,,https://m.media-amazon.com/images/I/411RlfwfeRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4WF3V2P,2026-03-28T15:12:12.358412
+amazon,,Meza,Meza,Women's Fashion,EGP 359.10,,,3.9,,,,,https://m.media-amazon.com/images/I/61qXnhScAJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4W14GVR,2026-03-28T15:12:12.358979
+amazon,,Sotex,Sotex,Women's Fashion,EGP 160.00,EGP 179.00,,4.2,List:,,,,https://m.media-amazon.com/images/I/61qpmfmrzjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D2D78PZ9,2026-03-28T15:12:12.359812
+amazon,,Sotex,Sotex,Women's Fashion,EGP 151.00,EGP 179.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/61qpmfmrzjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D2D8NNG6,2026-03-28T15:12:12.360528
+amazon,,DALY,DALY,Women's Fashion,EGP 403.20,EGP 432.00,,3.9,Was:,,,,https://m.media-amazon.com/images/I/51O3FuennXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CSG8GK71,2026-03-28T15:12:12.361242
+amazon,,Nileton,Nileton,Women's Fashion,EGP 399.00,,,4.0,,,,,https://m.media-amazon.com/images/I/51JwC4i49oL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09NWFVL7Y,2026-03-28T15:12:12.361864
+amazon,,AJYAL,AJYAL,Women's Fashion,EGP 132.00,EGP 150.00,,4.4,List:,,,,https://m.media-amazon.com/images/I/31vnmnwo8wL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9X5S4D8,2026-03-28T15:12:12.362587
+amazon,,Mesery,Mesery,Women's Fashion,EGP 390.63,,,3.8,,,,,https://m.media-amazon.com/images/I/41KppG+gEIL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CQYMVHB1,2026-03-28T15:12:12.363127
+amazon,,CHRLEISURE,CHRLEISURE,Women's Fashion,"EGP 1,590.00",,,4.1,,,,,https://m.media-amazon.com/images/I/71EwpUEzR2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C6KD7Y2V,2026-03-28T15:12:12.363690
+amazon,,Meza,Meza,Women's Fashion,EGP 251.10,EGP 279.00,,4.1,Was:,,,,https://m.media-amazon.com/images/I/51rT1++f5hL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DQ5SHJLN,2026-03-28T15:12:12.364406
+amazon,,KOTON,KOTON,Women's Fashion,EGP 418.23,,,2.5,,,,,https://m.media-amazon.com/images/I/81i8AeFhK-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CV4PP7YS,2026-03-28T15:12:12.364968
+amazon,,KOTON,KOTON,Women's Fashion,EGP 619.00,,,,,,,,https://m.media-amazon.com/images/I/61DG-mAX57L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DS996GRT,2026-03-28T15:12:12.365434
+amazon,,Azeez,Azeez,Women's Fashion,EGP 440.10,,,4.3,,,,,https://m.media-amazon.com/images/I/61-K1CeuvmL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BTQ58CHR,2026-03-28T15:12:12.366045
+amazon,,adidas,adidas,Women's Fashion,"EGP 1,369.00","EGP 1,999.00",,4.5,List:,,,,https://m.media-amazon.com/images/I/61bz5yNjUEL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZPMG1TC,2026-03-28T15:12:12.366689
+amazon,,Pentacor Leggings Soft for Women and Girls Dress up from 45k to 90k,,Women's Fashion,EGP 123.20,EGP 152.10,,3.7,Was:,,,,https://m.media-amazon.com/images/I/51z6qEDx1CL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C5Y14LKW,2026-03-28T15:12:12.367399
+amazon,,Meza,Meza,Women's Fashion,EGP 224.10,EGP 249.00,,3.4,Was:,,,,https://m.media-amazon.com/images/I/51lzFgSlMpL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DT1LWCVR,2026-03-28T15:12:12.368107
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 259.00,,,,,,,,https://m.media-amazon.com/images/I/81XNdhi-ZFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FK3VCNMV,2026-03-28T15:12:16.145421
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 999.58,,,2.8,,,,,https://m.media-amazon.com/images/I/51W7LRRORuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWLGD94N,2026-03-28T15:12:16.148566
+amazon,,ONLY,ONLY,Women's Fashion,"EGP 1,392.00",,,,,,,,https://m.media-amazon.com/images/I/814y2SOqeXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8BYT72K,2026-03-28T15:12:16.149533
+amazon,,ONLY,ONLY,Women's Fashion,EGP 219.32,,,3.0,,,,,https://m.media-amazon.com/images/I/818NRNUpPJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C9Q3956G,2026-03-28T15:12:16.152901
+amazon,,ONLY,ONLY,Women's Fashion,"EGP 1,119.00",,,5.0,,,,,https://m.media-amazon.com/images/I/61i-yPis9jL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D1R6BF7V,2026-03-28T15:12:16.153500
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 775.00,,,1.0,,,,,https://m.media-amazon.com/images/I/61r6bfnyO1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B09XF8KTMB,2026-03-28T15:12:16.154603
+amazon,,Andora,Andora,Women's Fashion,EGP 119.00,,,2.7,,,,,https://m.media-amazon.com/images/I/51DqgFgZHFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F87YQ72S,2026-03-28T15:12:16.155241
+amazon,,KOTON,KOTON,Women's Fashion,EGP 809.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81DSosdscnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DTDT7RC7,2026-03-28T15:12:16.158295
+amazon,,ONLY,ONLY,Women's Fashion,EGP 759.88,,,4.2,,,,,https://m.media-amazon.com/images/I/91fXY+kPLvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C9R3LMVN,2026-03-28T15:12:16.158828
+amazon,,GuLiNiao,GuLiNiao,Women's Fashion,EGP 403.74,,,4.1,,,,,https://m.media-amazon.com/images/I/51wjRdSxPbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4F19Z4L,2026-03-28T15:12:16.159476
+amazon,,ZECOTEX,ZECOTEX,Women's Fashion,EGP 228.00,EGP 285.00,,4.1,Was:,,,,https://m.media-amazon.com/images/I/31W0jhaYb5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F13RFXZJ,2026-03-28T15:12:16.160084
+amazon,,Dice,Dice,Women's Fashion,EGP 155.00,EGP 169.00,,4.6,List:,,,,https://m.media-amazon.com/images/I/31lvuBU1cpL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWT5DKKT,2026-03-28T15:12:16.160745
+amazon,,Nileton,Nileton,Women's Fashion,EGP 399.00,,,4.2,,,,,https://m.media-amazon.com/images/I/41uMKO+vJcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B5Y45B2J,2026-03-28T15:12:16.161382
+amazon,,New Balance,New Balance,Women's Fashion,"EGP 1,062.00",,,4.0,,,,,https://m.media-amazon.com/images/I/41UuMRSXE0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C5K1MRTV,2026-03-28T15:12:16.161875
+amazon,,CLUE,CLUE,Women's Fashion,EGP 699.99,,,5.0,,,,,https://m.media-amazon.com/images/I/61+vnqzEyML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F1S17891,2026-03-28T15:12:16.163019
+amazon,,Women's Winter Warm Fleece Lined Leggings -Elegant Thick Velvet Tights Thermal Pants black,,Women's Fashion,EGP 499.00,,,5.0,,,,,https://m.media-amazon.com/images/I/21XQ8QdcF0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DLVH6XFB,2026-03-28T15:12:16.163532
+amazon,,ONLY,ONLY,Women's Fashion,EGP 625.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81MjpejRHgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C48GJPJL,2026-03-28T15:12:16.164018
+amazon,,Sotex,Sotex,Women's Fashion,EGP 149.00,EGP 179.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/71wr07dRDoL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D2D8MYSQ,2026-03-28T15:12:16.164742
+amazon,,Nileton,Nileton,Women's Fashion,EGP 325.00,EGP 365.00,,3.7,Was:,,,,https://m.media-amazon.com/images/I/41Rtl8QMecL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BGC6MHT4,2026-03-28T15:12:16.165468
+amazon,,Silvy,Silvy,Women's Fashion,EGP 164.00,EGP 195.00,,3.3,List:,,,,https://m.media-amazon.com/images/I/41kasKBU3dL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BST5YYQK,2026-03-28T15:12:16.166164
+amazon,,Nileton,Nileton,Women's Fashion,EGP 325.00,EGP 365.00,,4.4,Was:,,,,https://m.media-amazon.com/images/I/51MyOqTLk4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BH3F9ZWK,2026-03-28T15:12:16.166873
+amazon,,Mesery,Mesery,Women's Fashion,EGP 173.13,EGP 179.10,,4.0,Was:,,,,https://m.media-amazon.com/images/I/61SU+JgUm7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4WLFFV8,2026-03-28T15:12:16.167484
+amazon,,Mesery,Mesery,Women's Fashion,EGP 260.13,,,3.7,,,,,https://m.media-amazon.com/images/I/41Ipn-mk+5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CQYP7MHK,2026-03-28T15:12:16.169399
+amazon,,ONLY,ONLY,Women's Fashion,EGP 623.91,,,3.1,,,,,https://m.media-amazon.com/images/I/61zcOtgcV-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CG9WGXFB,2026-03-28T15:12:16.169952
+amazon,,Meza,Meza,Women's Fashion,EGP 251.10,EGP 279.00,,4.1,List:,,,,https://m.media-amazon.com/images/I/61aRItIgOeL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2M9R2DX,2026-03-28T15:12:16.170695
+amazon,,Cotton Zone,Cotton Zone,Women's Fashion,EGP 185.00,,,4.2,,,,,https://m.media-amazon.com/images/I/41VTmAo3KiL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWG2RK9M,2026-03-28T15:12:16.171293
+amazon,,AJYAL,AJYAL,Women's Fashion,EGP 145.20,,,3.7,,,,,https://m.media-amazon.com/images/I/31TpFnDgEgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9FW3CQK,2026-03-28T15:12:16.171898
+amazon,,Dice,Dice,Women's Fashion,EGP 117.00,,,4.4,,,,,https://m.media-amazon.com/images/I/51E+gKsVhLL._AC_UL320_.jpg,https://www.amazon.eg/dp/B08WJMZR5Q,2026-03-28T15:12:16.172437
+amazon,,Eve Chantelle,Eve Chantelle,Women's Fashion,EGP 209.00,EGP 259.00,,4.6,List:,,,,https://m.media-amazon.com/images/I/61JHrnxRafL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4GJY8XW,2026-03-28T15:12:16.173120
+amazon,,Dice,Dice,Women's Fashion,EGP 379.00,,,4.2,,,,,https://m.media-amazon.com/images/I/51ecU5DVa8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C1K16RTT,2026-03-28T15:12:16.173675
+amazon,,Nileton,Nileton,Women's Fashion,,,,4.0,,,,,https://m.media-amazon.com/images/I/41ty8nnWK1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CTXMG261,2026-03-28T15:12:20.794860
+amazon,,ONLY,ONLY,Women's Fashion,"EGP 1,322.00",,,2.4,,,,,https://m.media-amazon.com/images/I/81AS4mEYcWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8CPBNZ5,2026-03-28T15:12:20.796866
+amazon,,DeFacto,DeFacto,Women's Fashion,EGP 370.00,,,3.3,,,,,https://m.media-amazon.com/images/I/61e6mGYClDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWJ3C7TC,2026-03-28T15:12:20.797988
+amazon,,ONLY,ONLY,Women's Fashion,EGP 793.00,"EGP 1,479.00",,3.8,List:,,,,https://m.media-amazon.com/images/I/81tolcUhjQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8C2GDC6,2026-03-28T15:12:20.800912
+amazon,,C&K,C&K,Women's Fashion,EGP 163.62,,,,,,,,https://m.media-amazon.com/images/I/41+SfbrEuuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FDQPHX1C,2026-03-28T15:12:20.802050
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 766.00,,,3.7,,,,,https://m.media-amazon.com/images/I/51bT05nCOyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09WF3RQLX,2026-03-28T15:12:20.803167
+amazon,,Charmaine,Charmaine,Women's Fashion,EGP 147.00,,,4.2,,,,,https://m.media-amazon.com/images/I/612QLwt0EgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4PPMSTF,2026-03-28T15:12:20.803752
+amazon,,ONLY,ONLY,Women's Fashion,EGP 586.14,,,3.7,,,,,https://m.media-amazon.com/images/I/71Hssb3BqPL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B3MFW1VT,2026-03-28T15:12:20.804343
+amazon,,Andora,Andora,Women's Fashion,EGP 549.00,,,3.4,,,,,https://m.media-amazon.com/images/I/71FuG4OAQdL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHKZ4JVT,2026-03-28T15:12:20.804954
+amazon,,ONLY,ONLY,Women's Fashion,"EGP 3,569.00",,,4.5,,,,,https://m.media-amazon.com/images/I/71n4dh4AGNL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8BWWJJY,2026-03-28T15:12:20.805521
+amazon,,KOTON,KOTON,Women's Fashion,EGP 345.09,,,,,,,,https://m.media-amazon.com/images/I/71YIovJsrgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DTCMZ5MZ,2026-03-28T15:12:20.806002
+amazon,,Andora,Andora,Women's Fashion,EGP 549.00,EGP 819.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/51lO04AJatL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D92JJCKV,2026-03-28T15:12:20.806701
+amazon,,"Women's Wide Sleeve Sequin Blouse, Black, Loose Fit",,Women's Fashion,EGP 500.00,,,,,,,,https://m.media-amazon.com/images/I/41yeL5LYZ0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNL31MLD,2026-03-28T15:12:20.807162
+amazon,,MANIKAN Women's lingerie Sexy Halter Bodycon Dresses Deep Halter Neck Outfit Slim Shirt with Ruched Side and Crystal Details,,Women's Fashion,EGP 311.74,,,,,,,,https://m.media-amazon.com/images/I/51AQW92uvVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVTFCW78,2026-03-28T15:12:20.807630
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 264.00,EGP 509.00,,3.7,List:,,,,https://m.media-amazon.com/images/I/51vCUGQ4AfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BX72VQQ6,2026-03-28T15:12:20.808340
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 739.00,,,,,,,,https://m.media-amazon.com/images/I/51XUGuu+bXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09XF8QZWC,2026-03-28T15:12:20.808814
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 419.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81EFs3kqG5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL38YKQ8,2026-03-28T15:12:20.809361
+amazon,,Nileton,Nileton,Women's Fashion,,,,4.3,,,,,https://m.media-amazon.com/images/I/51JiuV6MckL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DGQNGD7T,2026-03-28T15:12:20.809879
+amazon,,ONLY,ONLY,Women's Fashion,EGP 979.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81Naoj-uK8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D433BM14,2026-03-28T15:12:20.810414
+amazon,,ONLY,ONLY,Women's Fashion,"EGP 1,291.00",,,5.0,,,,,https://m.media-amazon.com/images/I/818ndv1M1VL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CTQV2X6K,2026-03-28T15:12:20.810965
+amazon,,adidas,adidas,Women's Fashion,EGP 624.80,"EGP 2,099.00",,5.0,List:,,,,https://m.media-amazon.com/images/I/81P534jM59L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DLKS8T61,2026-03-28T15:12:20.811618
+amazon,,Andora,Andora,Women's Fashion,EGP 349.00,,,4.5,,,,,https://m.media-amazon.com/images/I/71U3mP0dMGL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FBRZ3R8C,2026-03-28T15:12:20.812268
+amazon,,BEBO,BEBO,Women's Fashion,EGP 585.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41vMhhOpzWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4DPKKYR,2026-03-28T15:12:20.812877
+amazon,,CARINA,CARINA,Women's Fashion,EGP 207.99,,,5.0,,,,,https://m.media-amazon.com/images/I/41d3EMCOTIL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0999KJ7DC,2026-03-28T15:12:20.813408
+amazon,,"MANIKAN Tracksuit Set, Hoodie and Joggers, for women",,Women's Fashion,EGP 574.99,,,,,,,,https://m.media-amazon.com/images/I/316xrSJvAHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DJFD479T,2026-03-28T15:12:20.813893
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 772.00,,,4.0,,,,,https://m.media-amazon.com/images/I/51Tt2GDJryL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BGLCK73X,2026-03-28T15:12:20.814482
+amazon,,Trendyol,Trendyol,Women's Fashion,"EGP 1,128.00",,,,,,,,https://m.media-amazon.com/images/I/71NJX4wb6AL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR3L54JT,2026-03-28T15:12:20.814985
+amazon,,ONLY,ONLY,Women's Fashion,EGP 976.00,,,,,,,,https://m.media-amazon.com/images/I/8103nz-U7WL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F1LJZCG3,2026-03-28T15:12:20.815482
+amazon,,KOTON,KOTON,Women's Fashion,EGP 655.00,,,,,,,,https://m.media-amazon.com/images/I/61kFgXHs8QL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWG14CMP,2026-03-28T15:12:20.815936
+amazon,,LC WAIKIKI,LC WAIKIKI,Women's Fashion,EGP 439.00,,,,,,,,https://m.media-amazon.com/images/I/612No12DSbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FGFDRBQC,2026-03-28T15:12:25.023566
+amazon,,ONLY,ONLY,Women's Fashion,"EGP 1,091.00",,,5.0,,,,,https://m.media-amazon.com/images/I/91FopldqqEL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BS5J534K,2026-03-28T15:12:25.024088
+amazon,,Trendyol,Trendyol,Women's Fashion,"EGP 1,459.00","EGP 1,715.00",,,List:,,,,https://m.media-amazon.com/images/I/811qvq6YCvL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR3SJV7B,2026-03-28T15:12:25.024633
+amazon,,لانجري فستان قصير مزود بطنه باور وكشه من السفلي,,Women's Fashion,EGP 263.35,,,2.5,,,,,https://m.media-amazon.com/images/I/51iBPeRPJhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZ48QGCK,2026-03-28T15:12:25.025225
+amazon,,ONLY,ONLY,Women's Fashion,EGP 790.00,,,4.3,,,,,https://m.media-amazon.com/images/I/91vbhd29GcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8CVHR4P,2026-03-28T15:12:25.026202
+amazon,,ONLY,ONLY,Women's Fashion,EGP 678.00,,,4.2,,,,,https://m.media-amazon.com/images/I/817w2RWV0EL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C9R522NS,2026-03-28T15:12:25.026700
+amazon,,"Women's Spaghetti Strap Maxi Dress, Lingerie, High Slit, Ruched Bodycon, Chain Detail, Evening Party Gown",,Women's Fashion,EGP 499.00,,,,,,,,https://m.media-amazon.com/images/I/313jUKS9zKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GFWLXH8H,2026-03-28T15:12:25.027161
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 772.00,,,4.4,,,,,https://m.media-amazon.com/images/I/71zyNsfGcuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4W7GHHL,2026-03-28T15:12:25.027733
+amazon,,Ghils,Ghils,Women's Fashion,EGP 325.00,,,3.4,,,,,https://m.media-amazon.com/images/I/31a1RxaTKZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CNHDMYVP,2026-03-28T15:12:25.028361
+amazon,,DALY,DALY,Women's Fashion,EGP 546.00,,,3.8,,,,,https://m.media-amazon.com/images/I/61lcT1RJcVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHQ69B95,2026-03-28T15:12:25.028940
+amazon,,"Women's Long Hooded Wool Look,Belted Overcoat, Classic Double-Breasted Design with Pockets, Winter Outerwear,Womens Clothing,Coats & Jackets",,Women's Fashion,EGP 699.00,EGP 799.00,,,List:,,,,https://m.media-amazon.com/images/I/3152velRz6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GFFZSNMN,2026-03-28T15:12:25.029484
+amazon,,Trendyol,Trendyol,Women's Fashion,EGP 364.00,,,,,,,,https://m.media-amazon.com/images/I/71mbmN4JKwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BTHPGDWM,2026-03-28T15:12:25.029915
