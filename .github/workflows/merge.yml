@@ -8,6 +8,10 @@ on:
     paths:
       - 'data/**/*.csv'
 
+concurrency:
+  group: merge-data
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -32,10 +36,12 @@ jobs:
         run: |
           git config user.email "scraper-bot@github.com"
           git config user.name "Scraper Bot"
-          git add amazon_products.csv noon_products.csv jumia_products.csv 2>/dev/null || true
+          git add amazon_products*.csv noon_products*.csv jumia_products*.csv 2>/dev/null || true
           if ! git diff --staged --quiet; then
             git commit -m "Merged data from all accounts - $(date -u +%Y-%m-%d)"
-            git push
+            for i in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && break || sleep $((RANDOM % 15 + 5))
+            done
           else
             echo "No changes to commit"
           fi
