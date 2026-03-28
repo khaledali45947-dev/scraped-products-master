@@ -1,1 +1,396 @@
 ﻿platform,asin,title,brand,category,current_price,original_price,discount,rating,reviews_count,prime_eligible,amazon_choice,sponsored,main_image,product_url,scraped_at
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 172.00,,,4.6,,,,,https://m.media-amazon.com/images/I/6159D2QZwQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53Z4VW4,2026-03-28T13:24:23.984976
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 169.00,,,,,,,,https://m.media-amazon.com/images/I/61qfuOHdeTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GS2KRSX5,2026-03-28T13:24:23.985475
+amazon,,Mesery,Mesery,Girls Fashion,EGP 86.13,,,3.6,,,,,https://m.media-amazon.com/images/I/61NYtDznq3L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F1MSR5B3,2026-03-28T13:24:23.985966
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 169.00,,,,,,,,https://m.media-amazon.com/images/I/619jmjwN1-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GS2YQHB7,2026-03-28T13:24:23.986425
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Girls Fashion,EGP 419.00,,,4.3,,,,,https://m.media-amazon.com/images/I/51GYWLxdNpL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4PLKVF5,2026-03-28T13:24:23.987041
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 149.00,,,,,,,,https://m.media-amazon.com/images/I/61sjuCet2kL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GS2NZDDL,2026-03-28T13:24:23.987497
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 144.00,,,,,,,,https://m.media-amazon.com/images/I/41OD0Ik8FhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GS24HX9W,2026-03-28T13:24:23.987928
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Girls Fashion,EGP 406.00,EGP 419.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/61AUvRLp-FL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4PJT9PZ,2026-03-28T13:24:23.988566
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 149.00,,,4.0,,,,,https://m.media-amazon.com/images/I/310QZ+kNmzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2K4J31K,2026-03-28T13:24:23.989026
+amazon,,Nileton,Nileton,Girls Fashion,EGP 365.00,,,4.4,,,,,https://m.media-amazon.com/images/I/51XloI8J1mL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GHGKRFR8,2026-03-28T13:24:23.989558
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 219.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51GnMgnFIIL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53ZTZ5Z,2026-03-28T13:24:23.990013
+amazon,,lil Darlings,lil Darlings,Girls Fashion,EGP 192.50,,,4.0,,,,,https://m.media-amazon.com/images/I/41zIpY+jAQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DYDWGTQR,2026-03-28T13:24:23.990533
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,,,,5.0,,,,,https://m.media-amazon.com/images/I/71cRHZnCmlL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT99VLPD,2026-03-28T13:24:23.991117
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 233.00,,,2.1,,,,,https://m.media-amazon.com/images/I/31wvvaiwgHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXVFCPD2,2026-03-28T13:24:23.991571
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Girls Fashion,EGP 318.00,EGP 480.00,,1.0,List:,,,,https://m.media-amazon.com/images/I/51c5jVvja3L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G9RJM9P7,2026-03-28T13:24:23.992103
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 374.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41pSkDmh7jL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53Y4KSC,2026-03-28T13:24:23.992575
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 224.00,,,3.3,,,,,https://m.media-amazon.com/images/I/71JtjEOvEIL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53YNG2Y,2026-03-28T13:24:23.993051
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 449.00,,,5.0,,,,,https://m.media-amazon.com/images/I/81OlvL1oGgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT9Y8VPT,2026-03-28T13:24:23.993539
+amazon,,Meza,Meza,Girls Fashion,EGP 299.00,,,4.0,,,,,https://m.media-amazon.com/images/I/61NTf6V4gHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNMK3TJS,2026-03-28T13:24:23.994097
+amazon,,name it,name it,Girls Fashion,EGP 374.37,,,5.0,,,,,https://m.media-amazon.com/images/I/517kZOQAzBL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BMQFXCJN,2026-03-28T13:24:23.994554
+amazon,,ROMBA SPORT,ROMBA SPORT,Girls Fashion,EGP 539.10,,,3.9,,,,,https://m.media-amazon.com/images/I/51I6BI+MG7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DZ6V1HXF,2026-03-28T13:24:23.995021
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 262.00,,,5.0,,,,,https://m.media-amazon.com/images/I/514EvLIp-2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53Z3YXH,2026-03-28T13:24:23.995497
+amazon,,Meza,Meza,Girls Fashion,EGP 611.10,EGP 679.00,,,List:,,,,https://m.media-amazon.com/images/I/519WKGS4CKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GGDMJ82S,2026-03-28T13:24:23.995991
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 407.00,,,,,,,,https://m.media-amazon.com/images/I/716KdQv-AVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK1L9ZVY,2026-03-28T13:24:23.996425
+amazon,,Buongiorno,Buongiorno,Girls Fashion,EGP 490.00,,,,,,,,https://m.media-amazon.com/images/I/51B2XklCMhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GD8DVPRJ,2026-03-28T13:24:23.996822
+amazon,,AJYAL,AJYAL,Girls Fashion,EGP 176.00,EGP 200.00,,4.4,Was:,,,,https://m.media-amazon.com/images/I/31uEJ-2bRnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9TC9FYZ,2026-03-28T13:24:23.997504
+amazon,,name it,name it,Girls Fashion,"EGP 1,182.00",,,4.3,,,,,https://m.media-amazon.com/images/I/71OBdnRoihL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CSD7XSJZ,2026-03-28T13:24:23.998016
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 419.00,,,3.6,,,,,https://m.media-amazon.com/images/I/61tzodiStzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F8QTSLZ6,2026-03-28T13:24:23.998514
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 599.00,,,2.0,,,,,https://m.media-amazon.com/images/I/81LOZZFE40L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK1BLRWS,2026-03-28T13:24:23.998971
+amazon,,junior,junior,Girls Fashion,EGP 294.12,,,3.6,,,,,https://m.media-amazon.com/images/I/515WeHUGB+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CYZVZLB7,2026-03-28T13:24:23.999446
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 144.00,,,3.5,,,,,https://m.media-amazon.com/images/I/31zu1EMTtDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53YP2JK,2026-03-28T13:24:23.999918
+amazon,,Charmaine,Charmaine,Girls Fashion,EGP 135.37,,,4.3,,,,,https://m.media-amazon.com/images/I/51rP1GGGBTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4PSQTP5,2026-03-28T13:24:24.000499
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 299.00,,,4.5,,,,,https://m.media-amazon.com/images/I/61T5OC3BVzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT9WJTJS,2026-03-28T13:24:24.000969
+amazon,,Zona Kids,Zona Kids,Girls Fashion,EGP 249.00,,,,,,,,https://m.media-amazon.com/images/I/61n2s+tsDRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GPT12CP5,2026-03-28T13:24:24.001372
+amazon,,CAESAR,CAESAR,Girls Fashion,EGP 321.00,,,3.3,,,,,https://m.media-amazon.com/images/I/51hJTeflDWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F7Y1LMBZ,2026-03-28T13:24:24.001906
+amazon,,CARINA,CARINA,Girls Fashion,EGP 118.30,EGP 123.30,,,Was:,,,,https://m.media-amazon.com/images/I/41vZBGz72ZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G25TZQZK,2026-03-28T13:24:24.002456
+amazon,,Elsayaad,Elsayaad,Girls Fashion,EGP 185.00,,,,,,,,https://m.media-amazon.com/images/I/61c-TmzSOZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GJPYGC7N,2026-03-28T13:24:24.002855
+amazon,,AKEEYO,AKEEYO,Girls Fashion,EGP 395.00,,,4.5,,,,,https://m.media-amazon.com/images/I/41+q4keQRhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GBL4JB7P,2026-03-28T13:24:24.003323
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 467.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61kQvxYAA9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK2BTFGR,2026-03-28T13:24:24.003794
+amazon,,Stitch and Sketch,Stitch and Sketch,Girls Fashion,EGP 550.00,,,,,,,,https://m.media-amazon.com/images/I/613R4u0R33L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FJRRWQWS,2026-03-28T13:24:24.004206
+amazon,,ROMBA SPORT,ROMBA SPORT,Girls Fashion,EGP 539.10,,,3.9,,,,,https://m.media-amazon.com/images/I/41zwLw-HRNL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F13XHTNK,2026-03-28T13:24:24.004677
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 224.00,,,1.0,,,,,https://m.media-amazon.com/images/I/41asaCVzELL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G541HWTM,2026-03-28T13:24:24.005154
+amazon,,AJYAL,AJYAL,Girls Fashion,EGP 176.00,EGP 200.00,,4.4,Was:,,,,https://m.media-amazon.com/images/I/31D4qnR2mJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9TD3WCJ,2026-03-28T13:24:24.005826
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 87.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61uyrEvgfxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X5MY1Q,2026-03-28T13:24:24.006287
+amazon,,AKEEYO,AKEEYO,Girls Fashion,EGP 395.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41MEl2KfvbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GBKJZ72P,2026-03-28T13:24:24.006741
+amazon,,Meza,Meza,Girls Fashion,EGP 382.50,EGP 399.00,,3.5,List:,,,,https://m.media-amazon.com/images/I/71dqTKrE6WL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FF3K4GLG,2026-03-28T13:24:24.007388
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 187.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61hnIcBRnSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G5432774,2026-03-28T13:24:24.007859
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 251.00,,,,,,,,https://m.media-amazon.com/images/I/81gQB1fPMhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GL346JCY,2026-03-28T13:24:24.008284
+amazon,,Mira Kids,Mira Kids,Girls Fashion,EGP 535.49,,,5.0,,,,,https://m.media-amazon.com/images/I/61Q9HVMpbOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FZW5QCDC,2026-03-28T13:24:28.518291
+amazon,,ROMBA SPORT,ROMBA SPORT,Girls Fashion,EGP 539.10,,,3.9,,,,,https://m.media-amazon.com/images/I/619ZRdjmn0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHQPPMJL,2026-03-28T13:24:28.518780
+amazon,,Girls Summer Cotton Sleeveless Blouse with Front Buttons and Flower Embroidery - Light Olive,,Girls Fashion,EGP 329.00,,,,,,,,https://m.media-amazon.com/images/I/61a5robpfWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS7D2HG5,2026-03-28T13:24:28.519449
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 185.00,,,,,,,,https://m.media-amazon.com/images/I/71eGmipdxnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK4MSLRB,2026-03-28T13:24:28.519878
+amazon,,ROMBA SPORT,ROMBA SPORT,Girls Fashion,EGP 323.10,EGP 359.00,,4.3,Was:,,,,https://m.media-amazon.com/images/I/51lpw0CPtWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DSWBBNN3,2026-03-28T13:24:28.520537
+amazon,,Meza,Meza,Girls Fashion,EGP 254.15,EGP 299.00,,,List:,,,,https://m.media-amazon.com/images/I/614MHqBWrdL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNMPL5M7,2026-03-28T13:24:28.521165
+amazon,,DeFacto,DeFacto,Girls Fashion,EGP 572.00,EGP 856.00,,,List:,,,,https://m.media-amazon.com/images/I/61TAd53A2fL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWRQS9R3,2026-03-28T13:24:28.521700
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 187.00,EGP 249.00,,5.0,Was:,,,,https://m.media-amazon.com/images/I/31XzMSQfrcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53YLYS4,2026-03-28T13:24:28.522274
+amazon,,Papillon,Papillon,Girls Fashion,EGP 149.00,,,4.3,,,,,https://m.media-amazon.com/images/I/51aJh+sEN8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FQ44KNLD,2026-03-28T13:24:28.522809
+amazon,,adidas,adidas,Girls Fashion,EGP 859.00,,,4.6,,,,,https://m.media-amazon.com/images/I/51ztLBDsXZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D19DQH14,2026-03-28T13:24:28.523294
+amazon,,Meza,Meza,Girls Fashion,EGP 254.15,EGP 299.00,,,List:,,,,https://m.media-amazon.com/images/I/61yoPwh589L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNMPKSJP,2026-03-28T13:24:28.523829
+amazon,,"Cold Shoulder, 100% Cotton, Multicolor, Modern Fit Blouse for Girls",,Girls Fashion,EGP 309.00,,,,,,,,https://m.media-amazon.com/images/I/61nzu4dzM8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS6YG4BB,2026-03-28T13:24:28.524320
+amazon,,ROMBA SPORT,ROMBA SPORT,Girls Fashion,EGP 539.10,,,3.9,,,,,https://m.media-amazon.com/images/I/51bd0yvmhZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DZ6YF3DB,2026-03-28T13:24:28.524797
+amazon,,ANJA,ANJA,Girls Fashion,EGP 590.00,,,,,,,,https://m.media-amazon.com/images/I/61jg5-Mq5AL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FLMF77C5,2026-03-28T13:24:28.525204
+amazon,,"Girls Hooded Kaftan, Cream, Embroidered Trim, Long Sleeve, Traditional Style, 4-6 size",,Girls Fashion,"EGP 1,149.00",,,,,,,,https://m.media-amazon.com/images/I/41nkoayEgFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GPNTDFMZ,2026-03-28T13:24:28.525615
+amazon,,PUMA,PUMA,Girls Fashion,EGP 660.50,,,5.0,,,,,https://m.media-amazon.com/images/I/7126095-lfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C3W8KCVD,2026-03-28T13:24:28.526151
+amazon,,junior,junior,Girls Fashion,EGP 400.00,,,4.5,,,,,https://m.media-amazon.com/images/I/51kK6ceO4ZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CRPR2QMQ,2026-03-28T13:24:28.526614
+amazon,,Silvy,Silvy,Girls Fashion,EGP 201.00,EGP 239.00,,3.2,List:,,,,https://m.media-amazon.com/images/I/41JXKevv8rL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BST8LGXR,2026-03-28T13:24:28.527194
+amazon,,junior,junior,Girls Fashion,EGP 430.00,,,4.0,,,,,https://m.media-amazon.com/images/I/71o5CltZjQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVVJTG7P,2026-03-28T13:24:28.527727
+amazon,,Andora,Andora,Girls Fashion,EGP 299.00,,,4.1,,,,,https://m.media-amazon.com/images/I/51CLLjCvbJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCTNZBN6,2026-03-28T13:24:28.528245
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 449.00,,,5.0,,,,,https://m.media-amazon.com/images/I/71PZJXTstlL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK2HKS4L,2026-03-28T13:24:28.528708
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 254.00,,,,,,,,https://m.media-amazon.com/images/I/513RfW6AIVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53ZKV4P,2026-03-28T13:24:28.529137
+amazon,,CAESAR,CAESAR,Girls Fashion,EGP 335.00,,,3.5,,,,,https://m.media-amazon.com/images/I/6106dn947+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4PJ3F3R,2026-03-28T13:24:28.529581
+amazon,,AKEEYO,AKEEYO,Girls Fashion,EGP 395.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41C-L5VC8FL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GBJJCSY1,2026-03-28T13:24:28.530043
+amazon,,adidas,adidas,Girls Fashion,EGP 865.00,,,,,,,,https://m.media-amazon.com/images/I/61Mn62Fs73L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DJFGMHTD,2026-03-28T13:24:28.530488
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 144.00,,,,,,,,https://m.media-amazon.com/images/I/51l34+dU0zL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GS2WZ47S,2026-03-28T13:24:28.530914
+amazon,,ROMBA SPORT,ROMBA SPORT,Girls Fashion,EGP 539.10,,,3.9,,,,,https://m.media-amazon.com/images/I/41VSTjbzJcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F13VZY5H,2026-03-28T13:24:28.531428
+amazon,,Dice,Dice,Girls Fashion,EGP 139.00,,,4.2,,,,,https://m.media-amazon.com/images/I/71EW8DvsqjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CD5XLLQK,2026-03-28T13:24:28.532030
+amazon,,AKEEYO,AKEEYO,Girls Fashion,EGP 395.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41BlncTIEbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GBJSYHFX,2026-03-28T13:24:28.532494
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 105.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41cIoYFYbWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53YFT98,2026-03-28T13:24:28.532943
+amazon,,Meza,Meza,Girls Fashion,EGP 319.50,EGP 355.00,,3.4,Was:,,,,https://m.media-amazon.com/images/I/61kfwECgknL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FQ7WNVQ2,2026-03-28T13:24:28.533538
+amazon,,LC WAIKIKI,LC WAIKIKI,Girls Fashion,EGP 251.00,EGP 449.00,,,List:,,,,https://m.media-amazon.com/images/I/71iLXocNa1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK2NM4PG,2026-03-28T13:24:28.534005
+amazon,,KOTON,KOTON,Girls Fashion,EGP 304.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61udy1xiY9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DT5XX63Y,2026-03-28T13:24:28.534555
+amazon,,PUMA,PUMA,Girls Fashion,EGP 520.77,,,4.7,,,,,https://m.media-amazon.com/images/I/41rwkSV2QcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09P42KH9Q,2026-03-28T13:24:28.535136
+amazon,,Meza,Meza,Girls Fashion,EGP 350.10,,,5.0,,,,,https://m.media-amazon.com/images/I/61MGa3pokHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FX561SXN,2026-03-28T13:24:28.535718
+amazon,,AKEEYO,AKEEYO,Girls Fashion,EGP 395.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41s8igCEVHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GBKYF7MK,2026-03-28T13:24:28.536179
+amazon,,AKEEYO,AKEEYO,Girls Fashion,EGP 395.00,,,,,,,,https://m.media-amazon.com/images/I/41a3CqKLQoL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GBLZJK7Q,2026-03-28T13:24:28.536578
+amazon,,adidas,adidas,Girls Fashion,EGP 703.00,"EGP 1,399.00",,5.0,List:,,,,https://m.media-amazon.com/images/I/818eO3mzRiL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZ9KPV69,2026-03-28T13:24:28.537105
+amazon,,NG,NG,Girls Fashion,EGP 176.00,EGP 200.00,,3.8,List:,,,,https://m.media-amazon.com/images/I/314OMijQnfL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FRZLXB28,2026-03-28T13:24:28.537739
+amazon,,DeFacto,DeFacto,Girls Fashion,EGP 770.00,,,,,,,,https://m.media-amazon.com/images/I/81KbDY5chAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWRR8WZL,2026-03-28T13:24:28.538224
+amazon,,Nileton,Nileton,Girls Fashion,EGP 255.00,,,4.2,,,,,https://m.media-amazon.com/images/I/418cMThC2LL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9LD9L1W,2026-03-28T13:24:28.538770
+amazon,,KOTON,KOTON,Girls Fashion,EGP 724.00,,,,,,,,https://m.media-amazon.com/images/I/810FxxMaonL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWHRCDNT,2026-03-28T13:24:28.539216
+amazon,,Meza,Meza,Girls Fashion,EGP 225.00,,,2.9,,,,,https://m.media-amazon.com/images/I/613sykPdQYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FJ7HF56Y,2026-03-28T13:24:28.539741
+amazon,,AKEEYO,AKEEYO,Girls Fashion,EGP 395.00,,,,,,,,https://m.media-amazon.com/images/I/51ZlkSBnBhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GBKL298Y,2026-03-28T13:24:28.540146
+amazon,,Cottonil,Cottonil,Girls Fashion,EGP 136.26,,,4.4,,,,,https://m.media-amazon.com/images/I/41IF10DOpmL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FX6YC8RX,2026-03-28T13:24:28.540615
+amazon,,adidas,adidas,Girls Fashion,"EGP 1,224.00",,,5.0,,,,,https://m.media-amazon.com/images/I/61e8OHVCeAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DLKRXM6N,2026-03-28T13:24:28.541119
+amazon,,Papillon,Papillon,Girls Fashion,EGP 139.00,,,4.3,,,,,https://m.media-amazon.com/images/I/41hSP+H-3yL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FQ43J5VY,2026-03-28T13:24:28.541648
+amazon,,Girls Summer Cotton Sleeveless Blouse with Front Buttons and Flower Embroidery - Light Olive,,Girls Fashion,EGP 329.00,,,,,,,,https://m.media-amazon.com/images/I/71io6s7570L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS7BL9Q3,2026-03-28T13:24:31.906450
+amazon,,CARINA,CARINA,Girls Fashion,EGP 91.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41vTd7b3lwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G25Y5MS3,2026-03-28T13:24:31.907455
+amazon,,Diadora,Diadora,Girls Fashion,EGP 833.00,,,1.0,,,,,https://m.media-amazon.com/images/I/41yBSn0vebL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DS9VXQW5,2026-03-28T13:24:31.909492
+amazon,,KOTON,KOTON,Girls Fashion,"EGP 1,330.21",,,,,,,,https://m.media-amazon.com/images/I/71APpIUd8SL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DT6FKDMX,2026-03-28T13:24:31.911445
+amazon,,adidas,adidas,Girls Fashion,EGP 749.00,,,4.5,,,,,https://m.media-amazon.com/images/I/71eOERFvL0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZRZ257K,2026-03-28T13:24:31.912600
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 999.00,,,5.0,,,,,https://m.media-amazon.com/images/I/31-3a4eYEJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X8WQNM,2026-03-28T13:24:21.866958
+amazon,,Meza,Meza,Boys Fashion,EGP 424.15,EGP 499.00,,2.8,List:,,,,https://m.media-amazon.com/images/I/61gD0SmDXCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G1NF15MT,2026-03-28T13:24:21.867788
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 209.00,EGP 299.00,,4.6,Was:,,,,https://m.media-amazon.com/images/I/61x0Fldz0xL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G5436MBL,2026-03-28T13:24:21.868452
+amazon,,Domeso,Domeso,Boys Fashion,EGP 649.00,,,,,,,,https://m.media-amazon.com/images/I/61VTruorxML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GQQQPDC5,2026-03-28T13:24:21.868905
+amazon,,adidas,adidas,Boys Fashion,EGP 738.00,"EGP 1,199.00",,4.7,List:,,,,https://m.media-amazon.com/images/I/61mgnE-YKgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZP3ZDLQ,2026-03-28T13:24:21.869607
+amazon,,Cottonil,Cottonil,Boys Fashion,EGP 451.00,EGP 659.00,,4.6,List:,,,,https://m.media-amazon.com/images/I/71lBCGiHVaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09LMLDJMM,2026-03-28T13:24:21.870220
+amazon,,Meza,Meza,Boys Fashion,EGP 521.10,EGP 579.00,,3.2,List:,,,,https://m.media-amazon.com/images/I/51HaPmzJJyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GLDC98QH,2026-03-28T13:24:21.870957
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 311.00,,,,,,,,https://m.media-amazon.com/images/I/61wnUMYNq0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GS2NNY7V,2026-03-28T13:24:21.871464
+amazon,,Meza,Meza,Boys Fashion,EGP 355.00,,,2.3,,,,,https://m.media-amazon.com/images/I/51LJaTfdZ4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXB3S9Z6,2026-03-28T13:24:21.872055
+amazon,,Zona Kids,Zona Kids,Boys Fashion,EGP 249.00,,,,,,,,https://m.media-amazon.com/images/I/71Nw2JaVf4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GPSBN33Z,2026-03-28T13:24:21.872576
+amazon,,Cottonil,Cottonil,Boys Fashion,EGP 270.00,EGP 303.00,Save 11%,4.0,Was:,,,,https://m.media-amazon.com/images/I/21TdMGuyg-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXC8953V,2026-03-28T13:24:21.873186
+amazon,,Buongiorno,Buongiorno,Boys Fashion,EGP 849.50,,,,,,,,https://m.media-amazon.com/images/I/31nj5Tu5xKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GQ5W9BHW,2026-03-28T13:24:21.873663
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 323.00,,,3.2,,,,,https://m.media-amazon.com/images/I/71HUL6ZSnnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FW5GR6R2,2026-03-28T13:24:21.874168
+amazon,,CAESAR,CAESAR,Boys Fashion,EGP 368.00,EGP 439.00,,3.6,List:,,,,https://m.media-amazon.com/images/I/51yxVCx0ocL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CCMLFNDC,2026-03-28T13:24:21.874771
+amazon,,Andora,Andora,Boys Fashion,EGP 163.67,EGP 249.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/61d734+p3BL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCTQY2VH,2026-03-28T13:24:21.875484
+amazon,,adidas,adidas,Boys Fashion,EGP 475.00,,,4.7,,,,,https://m.media-amazon.com/images/I/71enoexHBtL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BKZZ5BHC,2026-03-28T13:24:21.876037
+amazon,,CAESAR,CAESAR,Boys Fashion,EGP 368.00,EGP 439.00,,3.3,List:,,,,https://m.media-amazon.com/images/I/51+uZId9ItL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CCMMC6N8,2026-03-28T13:24:21.876639
+amazon,,Elsayaad,Elsayaad,Boys Fashion,EGP 64.00,EGP 109.00,,4.5,List:,,,,https://m.media-amazon.com/images/I/416YwDdROzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0968Z6S8K,2026-03-28T13:24:21.877216
+amazon,,PUMA,PUMA,Boys Fashion,EGP 800.00,,,4.5,,,,,https://m.media-amazon.com/images/I/51bSab0JTTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B08V5LRDGT,2026-03-28T13:24:21.877822
+amazon,,Under Armour,Under Armour,Boys Fashion,EGP 713.00,"EGP 1,139.00",,4.5,List:,,,,https://m.media-amazon.com/images/I/719q73ArHdL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09WCXHJPN,2026-03-28T13:24:21.878484
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 303.30,,,,,,,,https://m.media-amazon.com/images/I/61TeJerRofL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FZ412SL8,2026-03-28T13:24:21.878987
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 224.00,EGP 249.00,,,Was:,,,,https://m.media-amazon.com/images/I/41HdU+rLAbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53ZNGKR,2026-03-28T13:24:21.879544
+amazon,,Andora,Andora,Boys Fashion,EGP 499.00,,,3.4,,,,,https://m.media-amazon.com/images/I/51ryNuFTwCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCTRMLR9,2026-03-28T13:24:21.880141
+amazon,,PILOTKIDSWEAR,PILOTKIDSWEAR,Boys Fashion,EGP 505.00,,,4.5,,,,,https://m.media-amazon.com/images/I/41Rf2brOcHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GFNS9N95,2026-03-28T13:24:21.880718
+amazon,,Dice,Dice,Boys Fashion,EGP 725.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61ZUxMM23YL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FYLF6NRY,2026-03-28T13:24:21.881209
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 278.00,,,3.6,,,,,https://m.media-amazon.com/images/I/715CM6NXwJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F6NYM467,2026-03-28T13:24:21.881757
+amazon,,CAESAR,CAESAR,Boys Fashion,EGP 356.00,EGP 469.00,,3.8,List:,,,,https://m.media-amazon.com/images/I/51NEKsYgDnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C817SZ8Z,2026-03-28T13:24:21.882345
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 270.00,,,4.0,,,,,https://m.media-amazon.com/images/I/81Wufgf5+cL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR4WBZ89,2026-03-28T13:24:21.882938
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 535.00,,,,,,,,https://m.media-amazon.com/images/I/61Aji0D67LL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTVTDLS6,2026-03-28T13:24:21.883447
+amazon,,ANJA,ANJA,Boys Fashion,EGP 375.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41STNYPy7eL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DTGTMZQJ,2026-03-28T13:24:21.884018
+amazon,,دفاية أولادي Interlock قطن مبطن سوبر لوكس – طقم شتوي مريح وناعم لحماية من البرد السن 2 سنوات (سنتين),,Boys Fashion,EGP 350.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51dEt+BuAmL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVBGTL8X,2026-03-28T13:24:21.884756
+amazon,,name it,name it,Boys Fashion,EGP 457.00,,,5.0,,,,,https://m.media-amazon.com/images/I/71RUFSunupL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CG9WRCX2,2026-03-28T13:24:21.885365
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 307.00,,,4.6,,,,,https://m.media-amazon.com/images/I/71LtbJi5dkL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DRL4TYQW,2026-03-28T13:24:21.885882
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 447.00,,,4.0,,,,,https://m.media-amazon.com/images/I/41S8hZb+8nL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X5Q4FR,2026-03-28T13:24:21.886433
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 359.00,EGP 520.00,,3.3,List:,,,,https://m.media-amazon.com/images/I/61Y6+iitwKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR4XNNC8,2026-03-28T13:24:21.887084
+amazon,,What's New Clothing,What's New Clothing,Boys Fashion,EGP 929.00,,,4.2,,,,,https://m.media-amazon.com/images/I/51jhGwbMtRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BPZN2D9F,2026-03-28T13:24:21.887636
+amazon,,PUMA,PUMA,Boys Fashion,EGP 738.97,,,5.0,,,,,https://m.media-amazon.com/images/I/61fed7N9OTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CRGNM4BW,2026-03-28T13:24:21.888177
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 615.00,,,,,,,,https://m.media-amazon.com/images/I/6170NO6hOnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FS26QY22,2026-03-28T13:24:21.888729
+amazon,,adidas,adidas,Boys Fashion,"EGP 1,194.00",,,,,,,,https://m.media-amazon.com/images/I/810ne1bvfOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DJFD12DZ,2026-03-28T13:24:21.889243
+amazon,,CAESAR,CAESAR,Boys Fashion,EGP 368.00,EGP 439.00,,3.6,List:,,,,https://m.media-amazon.com/images/I/5159Uk+c1ML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CCMNP9RJ,2026-03-28T13:24:21.889849
+amazon,,Andora,Andora,Boys Fashion,EGP 209.00,EGP 249.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/61fTztR0BAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCTR4S7J,2026-03-28T13:24:21.890570
+amazon,,Dice,Dice,Boys Fashion,EGP 134.00,EGP 149.00,,4.4,List:,,,,https://m.media-amazon.com/images/I/11P4uHE-NDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWT6WZ9Y,2026-03-28T13:24:21.891226
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 239.00,,,,,,,,https://m.media-amazon.com/images/I/41OqXAcGdHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X79GLK,2026-03-28T13:24:21.891731
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 309.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61332pGrFGL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK2KYPBC,2026-03-28T13:24:21.892244
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 237.00,,,3.3,,,,,https://m.media-amazon.com/images/I/41RS5pVB4dL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT9BSZZD,2026-03-28T13:24:21.892773
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 467.00,,,,,,,,https://m.media-amazon.com/images/I/41GbPswO7XL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4X1RY2K,2026-03-28T13:24:21.893226
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 535.00,,,,,,,,https://m.media-amazon.com/images/I/61mxiiH9etL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTVT5GBZ,2026-03-28T13:24:21.893688
+amazon,,Cottonil,Cottonil,Boys Fashion,EGP 259.00,EGP 279.00,,3.6,List:,,,,https://m.media-amazon.com/images/I/51qkQf96E2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B096L6BGWM,2026-03-28T13:24:21.894390
+amazon,,Andora,Andora,Boys Fashion,EGP 449.00,,,4.1,,,,,https://m.media-amazon.com/images/I/51c14WC95wL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCTRK637,2026-03-28T13:24:25.719911
+amazon,,junior,junior,Boys Fashion,EGP 682.00,EGP 750.00,,5.0,List:,,,,https://m.media-amazon.com/images/I/61FXukDGfQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVVJ6PN4,2026-03-28T13:24:25.720596
+amazon,,MiniMe Kids Wear,MiniMe Kids Wear,Boys Fashion,EGP 349.00,,,3.0,,,,,https://m.media-amazon.com/images/I/41XMj7EvQJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G49FXD2P,2026-03-28T13:24:25.721133
+amazon,,Andora,Andora,Boys Fashion,EGP 249.00,,,3.5,,,,,https://m.media-amazon.com/images/I/7127Dj9s9wL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DDY6L54K,2026-03-28T13:24:25.721763
+amazon,,Dice,Dice,Boys Fashion,,,,4.0,,,,,https://m.media-amazon.com/images/I/61KXHZEzwxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CGZX5M5T,2026-03-28T13:24:25.722608
+amazon,,junior,junior,Boys Fashion,EGP 430.00,EGP 475.00,,,List:,,,,https://m.media-amazon.com/images/I/61P3mEcMF7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVVHJ8N2,2026-03-28T13:24:25.723130
+amazon,,United Colors of Benetton,United Colors of Benetton,Boys Fashion,EGP 420.00,,,,,,,,https://m.media-amazon.com/images/I/41d0uJxyFOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DNK7D9V6,2026-03-28T13:24:25.723711
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 535.00,,,,,,,,https://m.media-amazon.com/images/I/613RFtps2fL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FTVV1DGM,2026-03-28T13:24:25.724147
+amazon,,Meza,Meza,Boys Fashion,EGP 269.10,,,3.4,,,,,https://m.media-amazon.com/images/I/51Gnk48BEBL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DZZLD2HP,2026-03-28T13:24:25.724706
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 578.00,,,,,,,,https://m.media-amazon.com/images/I/718R5h8-viL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FZ3YC9RZ,2026-03-28T13:24:25.725134
+amazon,,Domeso,Domeso,Boys Fashion,EGP 299.00,EGP 389.00,,4.6,List:,,,,https://m.media-amazon.com/images/I/6149pt826cL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FXHNYJMF,2026-03-28T13:24:25.725786
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 409.00,EGP 427.41,,1.0,Was:,,,,https://m.media-amazon.com/images/I/61UkrZei6+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK1QXSYG,2026-03-28T13:24:25.726376
+amazon,,Papillon,Papillon,Boys Fashion,EGP 159.00,,,4.5,,,,,https://m.media-amazon.com/images/I/513GYieFOhL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FQ44NG7V,2026-03-28T13:24:25.726951
+amazon,,adidas,adidas,Boys Fashion,"EGP 1,346.00",,,4.8,,,,,https://m.media-amazon.com/images/I/613+WDu+SwL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZS3SFYW,2026-03-28T13:24:25.727586
+amazon,,Andora,Andora,Boys Fashion,EGP 599.00,,,3.9,,,,,https://m.media-amazon.com/images/I/61g9C0Ln52L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D3YXMC8V,2026-03-28T13:24:25.728188
+amazon,,PUMA,PUMA,Boys Fashion,EGP 715.75,,,,,,,,https://m.media-amazon.com/images/I/51NIUQvyz-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CVN8PGM9,2026-03-28T13:24:25.728692
+amazon,,CAESAR,CAESAR,Boys Fashion,EGP 368.00,EGP 381.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/51VlLN86v2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CCMMN8HF,2026-03-28T13:24:25.729268
+amazon,,junior,junior,Boys Fashion,EGP 587.00,,,,,,,,https://m.media-amazon.com/images/I/713k1KTCmlL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVVJ88FH,2026-03-28T13:24:25.729746
+amazon,,Andora,Andora,Boys Fashion,EGP 299.00,,,3.5,,,,,https://m.media-amazon.com/images/I/81S2Gvz0pRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FL2KFCZ6,2026-03-28T13:24:25.730307
+amazon,,AKEEYO,AKEEYO,Boys Fashion,EGP 350.00,,,4.2,,,,,https://m.media-amazon.com/images/I/31shK56tJFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT8LY7KF,2026-03-28T13:24:25.730848
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 427.41,,,,,,,,https://m.media-amazon.com/images/I/51LWVxVgoDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GK1R26WG,2026-03-28T13:24:25.731278
+amazon,,Dice,Dice,Boys Fashion,EGP 150.00,,,4.4,,,,,https://m.media-amazon.com/images/I/21k8im8ovFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWT4DYXL,2026-03-28T13:24:25.731877
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 325.00,,,4.0,,,,,https://m.media-amazon.com/images/I/61-0Nit5sHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DL7FKMG5,2026-03-28T13:24:25.732395
+amazon,,Cottonil,Cottonil,Boys Fashion,EGP 189.00,,,5.0,,,,,https://m.media-amazon.com/images/I/31UD4ux-ppL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GJMMF8TQ,2026-03-28T13:24:25.732891
+amazon,,"Boys Winter Sweatshirt, 100% Cotton Padded, Thick Anti-Pilling & Fade Resistant Material, Warm and Soft Toddler Clothing, Stylish and Comfortable Design for Boys",,Boys Fashion,EGP 699.00,,,,,,,,https://m.media-amazon.com/images/I/31OAbw3e4VL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GLHR88CX,2026-03-28T13:24:25.733358
+amazon,,Andora,Andora,Boys Fashion,EGP 394.00,EGP 599.00,,4.6,List:,,,,https://m.media-amazon.com/images/I/71jnhQoQDEL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DDY8L3PD,2026-03-28T13:24:25.733983
+amazon,,ANJA,ANJA,Boys Fashion,EGP 475.00,,,3.3,,,,,https://m.media-amazon.com/images/I/41Mwxf8ym6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DTGBQWX6,2026-03-28T13:24:25.734511
+amazon,,Diadora,Diadora,Boys Fashion,EGP 153.30,,,5.0,,,,,https://m.media-amazon.com/images/I/61xnlZj2z9S._AC_UL320_.jpg,https://www.amazon.eg/dp/B0922VVSMG,2026-03-28T13:24:25.735024
+amazon,,Dice,Dice,Boys Fashion,EGP 80.00,EGP 89.00,,4.6,List:,,,,https://m.media-amazon.com/images/I/51sJALSnkaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CF2S7XLR,2026-03-28T13:24:25.735705
+amazon,,adidas,adidas,Boys Fashion,EGP 959.00,"EGP 1,399.00",,4.7,List:,,,,https://m.media-amazon.com/images/I/71LbbNcdkjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZS3WQY3,2026-03-28T13:24:25.736377
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 456.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71EV35Ey5WL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G6DZKDMZ,2026-03-28T13:24:25.736866
+amazon,,CAESAR - سيزر,CAESAR - سيزر,Boys Fashion,EGP 270.00,,,4.0,,,,,https://m.media-amazon.com/images/I/81ZBsxPVQ-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR4XNZVF,2026-03-28T13:24:25.737472
+amazon,,KOTON,KOTON,Boys Fashion,EGP 552.00,,,,,,,,https://m.media-amazon.com/images/I/71sq7wMs13L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DT4PRB42,2026-03-28T13:24:25.737947
+amazon,,CAESAR,CAESAR,Boys Fashion,EGP 466.00,EGP 499.00,,3.6,List:,,,,https://m.media-amazon.com/images/I/51QR0yFqp5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BD21Q3JX,2026-03-28T13:24:25.738625
+amazon,,PUMA,PUMA,Boys Fashion,EGP 855.00,,,,,,,,https://m.media-amazon.com/images/I/61VtHuxvtmL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CRGJ11GL,2026-03-28T13:24:25.739107
+amazon,,adidas,adidas,Boys Fashion,"EGP 1,199.00","EGP 1,599.00",,4.7,List:,,,,https://m.media-amazon.com/images/I/718rxeYpvTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CZPCW4YS,2026-03-28T13:24:25.739765
+amazon,,Andora,Andora,Boys Fashion,EGP 249.00,,,3.9,,,,,https://m.media-amazon.com/images/I/51rdptkF8PL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BCYWCQH6,2026-03-28T13:24:25.740400
+amazon,,junior,junior,Boys Fashion,EGP 384.00,EGP 420.00,,,List:,,,,https://m.media-amazon.com/images/I/71sWC0MKvqL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FVVMVMCG,2026-03-28T13:24:25.740913
+amazon,,adidas,adidas,Boys Fashion,EGP 720.72,,,4.4,,,,,https://m.media-amazon.com/images/I/715zNMldPQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BQW965NJ,2026-03-28T13:24:25.741452
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 224.00,,,,,,,,https://m.media-amazon.com/images/I/41egG8h81pL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G543K8MJ,2026-03-28T13:24:25.741915
+amazon,,Zercon,Zercon,Boys Fashion,EGP 485.10,EGP 539.00,,5.0,Was:,,,,https://m.media-amazon.com/images/I/715fin4C8QL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR4LDBLP,2026-03-28T13:24:25.742549
+amazon,,What's New Clothing,What's New Clothing,Boys Fashion,EGP 949.00,,,5.0,,,,,https://m.media-amazon.com/images/I/51R01Nca0FL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BPZLZ6MN,2026-03-28T13:24:25.743041
+amazon,,Andora,Andora,Boys Fashion,EGP 399.00,,,4.3,,,,,https://m.media-amazon.com/images/I/61ogMMND-vL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8ZNCG1H,2026-03-28T13:24:25.743662
+amazon,,junior,junior,Boys Fashion,EGP 289.09,,,4.2,,,,,https://m.media-amazon.com/images/I/617vckqJgaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D5754M9V,2026-03-28T13:24:25.744161
+amazon,,adidas,adidas,Boys Fashion,EGP 564.46,,,4.7,,,,,https://m.media-amazon.com/images/I/61ExX+T4BAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BP7JBNB6,2026-03-28T13:24:25.744779
+amazon,,LC WAIKIKI,LC WAIKIKI,Boys Fashion,EGP 224.00,,,,,,,,https://m.media-amazon.com/images/I/61V5QgnL5rL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G53ZM63W,2026-03-28T13:24:25.745239
+amazon,,JodiMini,JodiMini,Boys Fashion,EGP 352.00,,,,,,,,https://m.media-amazon.com/images/I/71pT02fmqLL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F4T2HCYX,2026-03-28T13:24:25.745724
+amazon,,CAESAR,CAESAR,Boys Fashion,EGP 399.00,EGP 469.00,,3.8,List:,,,,https://m.media-amazon.com/images/I/51IacjKoTYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C816S9JD,2026-03-28T13:24:25.746365
+amazon,,Andora,Andora,Boys Fashion,EGP 499.00,,,3.4,,,,,https://m.media-amazon.com/images/I/61bxwRqEDSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCTQ36MQ,2026-03-28T13:24:29.920621
+amazon,,Andora,Andora,Boys Fashion,EGP 249.00,,,4.5,,,,,https://m.media-amazon.com/images/I/71wlq1SAVSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DK3HSYXB,2026-03-28T13:24:29.921205
+amazon,,Apple Kids,Apple Kids,Boys Fashion,EGP 480.00,,,,,,,,https://m.media-amazon.com/images/I/51ZaVJVk6EL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FW93NPR9,2026-03-28T13:24:29.921756
+amazon,,Baby Boys Summer Sleeve Shirt,,Boys Fashion,EGP 359.00,,,,,,,,https://m.media-amazon.com/images/I/61QHgnXiAnL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0C23S76K6,2026-03-28T13:24:29.922260
+amazon,,American Tourister,American Tourister,Luggage,"EGP 2,999.00",,,4.5,,,,,https://m.media-amazon.com/images/I/51x3mFgl2LL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07ZDFLZCL,2026-03-28T13:24:12.555334
+amazon,,American Tourister,American Tourister,Luggage,"EGP 2,100.00",,,4.4,,,,,https://m.media-amazon.com/images/I/51FvR9++-sL._AC_UL320_.jpg,https://www.amazon.eg/dp/B075ZFZKN7,2026-03-28T13:24:12.555930
+amazon,,Hauptstadtkoffer,Hauptstadtkoffer,Luggage,"EGP 1,850.00",,,4.2,,,,,https://m.media-amazon.com/images/I/61LZdCCh0UL._AC_UL320_.jpg,https://www.amazon.eg/dp/B00L2CY4UC,2026-03-28T13:24:12.556476
+amazon,,Musselz,Musselz,Luggage,"EGP 2,924.00",,,4.1,,,,,https://m.media-amazon.com/images/I/71Iqar5XpkL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DH43NSXL,2026-03-28T13:24:12.557070
+amazon,,Musselz,Musselz,Luggage,"EGP 1,715.00",,,3.7,,,,,https://m.media-amazon.com/images/I/61qfnYUKkjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DF6C6KVS,2026-03-28T13:24:12.557734
+amazon,,American Tourister,American Tourister,Luggage,"EGP 2,999.00",,,3.9,,,,,https://m.media-amazon.com/images/I/519+cUIuB9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B07772N99W,2026-03-28T13:24:12.558329
+amazon,,American Tourister,American Tourister,Luggage,"EGP 3,819.00","EGP 4,773.00",,4.4,Was:,,,,https://m.media-amazon.com/images/I/51YYSGuyeaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BX969QTN,2026-03-28T13:24:12.559039
+amazon,,American Tourister,American Tourister,Luggage,"EGP 2,100.00",,,3.2,,,,,https://m.media-amazon.com/images/I/41CNNctmb0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B07ZDGKQQ4,2026-03-28T13:24:12.559566
+amazon,,Musselz,Musselz,Luggage,"EGP 3,199.00",,,4.2,,,,,https://m.media-amazon.com/images/I/71e1fQuLaKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCF29677,2026-03-28T13:24:12.560193
+amazon,,TrekKit,TrekKit,Luggage,"EGP 2,700.00",,,4.0,,,,,https://m.media-amazon.com/images/I/71+UXDxA4AL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09SBV2X1C,2026-03-28T13:24:12.560770
+amazon,,American Tourister,American Tourister,Luggage,"EGP 3,049.00","EGP 3,430.00",,4.2,List:,,,,https://m.media-amazon.com/images/I/71qKx7gLe3L._AC_UL320_.jpg,https://www.amazon.eg/dp/B07NJKYPSG,2026-03-28T13:24:12.561391
+amazon,,Musselz,Musselz,Luggage,"EGP 3,550.00",,,4.0,,,,,https://m.media-amazon.com/images/I/81zDXGVcGcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DB3NBTDG,2026-03-28T13:24:12.562029
+amazon,,Musselz,Musselz,Luggage,"EGP 3,275.00",,,4.2,,,,,https://m.media-amazon.com/images/I/81WLVcmCmxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DWWC7YN4,2026-03-28T13:24:12.562593
+amazon,,Musselz,Musselz,Luggage,"EGP 4,374.00",,,4.3,,,,,https://m.media-amazon.com/images/I/71n+nRucwzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DH33TF6L,2026-03-28T13:24:12.563200
+amazon,,jb,jb,Luggage,EGP 764.00,,,3.8,,,,,https://m.media-amazon.com/images/I/51Jchv4UaFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09R84NNDL,2026-03-28T13:24:12.563726
+amazon,,Musselz,Musselz,Luggage,"EGP 4,154.00",,,3.5,,,,,https://m.media-amazon.com/images/I/81qO4Z0+kJL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCGLHYCH,2026-03-28T13:24:12.564329
+amazon,,Migo,Migo,Luggage,"EGP 1,699.00",,,4.2,,,,,https://m.media-amazon.com/images/I/71ZzHnAkh7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F22628Q6,2026-03-28T13:24:12.564826
+amazon,,jb,jb,Luggage,EGP 774.00,,,3.7,,,,,https://m.media-amazon.com/images/I/51sp+OLcg+S._AC_UL320_.jpg,https://www.amazon.eg/dp/B096L1QM32,2026-03-28T13:24:12.565349
+amazon,,American Tourister,American Tourister,Luggage,"EGP 3,600.00",,,4.3,,,,,https://m.media-amazon.com/images/I/51VcNxAHn6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B07ZDGK5GH,2026-03-28T13:24:12.565835
+amazon,,Migo,Migo,Luggage,"EGP 1,982.79",,,3.5,,,,,https://m.media-amazon.com/images/I/71g10yIBVzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F223MJZD,2026-03-28T13:24:12.566358
+amazon,,NiceUU,NiceUU,Luggage,EGP 595.00,,,4.2,,,,,https://m.media-amazon.com/images/I/61jo0HyBChL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CWPK9LK8,2026-03-28T13:24:12.566990
+amazon,,Migo,Migo,Luggage,"EGP 1,288.00",,,3.3,,,,,https://m.media-amazon.com/images/I/61lCROYl7IL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW77RSV,2026-03-28T13:24:12.567484
+amazon,,"68 cm Spinner Luggage Trolley Bag - Louver (Medium), Acrylonitrile Butadiene Styrene (ABS), Pink",,Luggage,"EGP 1,399.00",,,4.4,,,,,https://m.media-amazon.com/images/I/51Ochn4+30L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DLTJ9JYC,2026-03-28T13:24:12.568168
+amazon,,Migo,Migo,Luggage,"EGP 2,558.00",,,3.7,,,,,https://m.media-amazon.com/images/I/71IjuKXehRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW7G9R5,2026-03-28T13:24:12.568662
+amazon,,jb,jb,Luggage,EGP 799.00,,,3.7,,,,,https://m.media-amazon.com/images/I/51QJAYKiDHS._AC_UL320_.jpg,https://www.amazon.eg/dp/B097DTXDYR,2026-03-28T13:24:12.569191
+amazon,,Luggage Travel Bag SWISSTECH 28 Inches/Black with olive green colour,,Luggage,"EGP 3,590.00",,,4.8,,,,,https://m.media-amazon.com/images/I/41kNXCnKtPL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DKC811DX,2026-03-28T13:24:12.569696
+amazon,,3 Piece Rolling Wheel Travel Bag Set Different Sizes - Pink and Gray Lam3eis-45,,Luggage,"EGP 2,840.00",,,4.2,,,,,https://m.media-amazon.com/images/I/61uPLJT6wdL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BZDGL6WW,2026-03-28T13:24:12.570215
+amazon,,milanobag,milanobag,Luggage,"EGP 2,740.00",,,3.8,,,,,https://m.media-amazon.com/images/I/61bwnUyk-LL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BTPHGQ53,2026-03-28T13:24:12.570704
+amazon,,Luggage Trolley Bags Set Of 2 Pcs. For Cabin With 8 Spinner Wheels And TSA Lock - Blue,,Luggage,"EGP 1,790.00",,,4.7,,,,,https://m.media-amazon.com/images/I/61IkVl0ySyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXFY4JK1,2026-03-28T13:24:12.571222
+amazon,,jb,jb,Luggage,"EGP 1,125.00",,,3.4,,,,,https://m.media-amazon.com/images/I/71XDo-onarL._AC_UL320_.jpg,https://www.amazon.eg/dp/B097DZBJCR,2026-03-28T13:24:12.571709
+amazon,,jb,jb,Luggage,"EGP 1,399.00",,,3.4,,,,,https://m.media-amazon.com/images/I/51K91S+5TaS._AC_UL320_.jpg,https://www.amazon.eg/dp/B097F15HS3,2026-03-28T13:24:12.572222
+amazon,,Migo,Migo,Luggage,"EGP 1,443.00",,,4.5,,,,,https://m.media-amazon.com/images/I/71IjuKXehRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW8VTGM,2026-03-28T13:24:12.572712
+amazon,,Musselz,Musselz,Luggage,"EGP 3,385.00","EGP 3,700.00",,3.7,List:,,,,https://m.media-amazon.com/images/I/710ZGLj6fuL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DHPXDP8H,2026-03-28T13:24:12.573415
+amazon,,Unbreakable Luggage Trolley Bags with TSA Lock 4 Silent Spinner Wheels Double Zipper Expandable - ABS Cashmere Size 24,,Luggage,"EGP 1,600.00",,,4.5,,,,,https://m.media-amazon.com/images/I/71Sd+FrCepL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FBM8VCPV,2026-03-28T13:24:12.573897
+amazon,,Migo,Migo,Luggage,"EGP 2,554.92",,,3.0,,,,,https://m.media-amazon.com/images/I/41OsdxEbopL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9WX1GJN,2026-03-28T13:24:12.574413
+amazon,,jb,jb,Luggage,"EGP 1,125.00",,,3.7,,,,,https://m.media-amazon.com/images/I/51b-8l392BL._AC_UL320_.jpg,https://www.amazon.eg/dp/B096L7QGR5,2026-03-28T13:24:12.574959
+amazon,,Crossland,Crossland,Luggage,"EGP 2,236.00",,,3.7,,,,,https://m.media-amazon.com/images/I/51DkA9wm2dL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CLKQ6KKC,2026-03-28T13:24:12.575452
+amazon,,Migo,Migo,Luggage,"EGP 2,206.00",,,3.2,,,,,https://m.media-amazon.com/images/I/71gAZfE5GVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW7Y4T8,2026-03-28T13:24:12.575966
+amazon,,jb,jb,Luggage,"EGP 1,124.00",,,3.5,,,,,https://m.media-amazon.com/images/I/61BOHdPzR4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B096L7TJDQ,2026-03-28T13:24:12.576460
+amazon,,Musselz,Musselz,Luggage,"EGP 3,000.00",,,,,,,,https://m.media-amazon.com/images/I/81vdxKmNKyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G1GM73JM,2026-03-28T13:24:12.576963
+amazon,,Stephen Joseph,Stephen Joseph,Luggage,"EGP 2,182.50",,,4.5,,,,,https://m.media-amazon.com/images/I/91MtDn6XrYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4PQ888G,2026-03-28T13:24:12.577499
+amazon,,"Hardside Luggage Trolley Travel Bag 30"", Expandable and Lightweight, Modern Design, 360 Degree Spinner Wheels with Combination Lock (Grey)",,Luggage,"EGP 1,849.00",,,,,,,,https://m.media-amazon.com/images/I/81l64HgWS8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4H453LD,2026-03-28T13:24:12.578010
+amazon,,"Hardside Luggage Trolley Travel Bag 26"", Expandable and Lightweight, Modern Design, 360 Degree Spinner Wheels with Combination Lock (Grey)",,Luggage,"EGP 1,499.00",,,,,,,,https://m.media-amazon.com/images/I/819fCF2Z5gL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4H3W43V,2026-03-28T13:24:12.578548
+amazon,,Migo,Migo,Luggage,"EGP 2,545.00",,,2.9,,,,,https://m.media-amazon.com/images/I/61quu2uW54L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW92LMP,2026-03-28T13:24:12.579065
+amazon,,REDHORNS,REDHORNS,Luggage,"EGP 1,775.00",,,3.3,,,,,https://m.media-amazon.com/images/I/61h9Uho1kSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D26DRZBQ,2026-03-28T13:24:12.579586
+amazon,,Migo,Migo,Luggage,"EGP 2,647.08",,,5.0,,,,,https://m.media-amazon.com/images/I/81sx0th5WIL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F224TZN5,2026-03-28T13:24:12.580137
+amazon,,Wayfare,Wayfare,Luggage,EGP 550.00,EGP 589.00,,3.4,Was:,,,,https://m.media-amazon.com/images/I/41BpBZLZkeL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FT1RD9QS,2026-03-28T13:24:12.580784
+amazon,,Hard Shell Luggage Trolley Bag Suitcase (28 Inch Trolley Handbag) with TSA Digital Lock for Travelers,,Luggage,,,,4.0,,,,,https://m.media-amazon.com/images/I/71OOgpRBC1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CR1KG42X,2026-03-28T13:24:12.581489
+amazon,,jb,jb,Luggage,EGP 825.00,,,3.2,,,,,https://m.media-amazon.com/images/I/51pM995OuvS._AC_UL320_.jpg,https://www.amazon.eg/dp/B096L5G9MC,2026-03-28T13:24:16.854813
+amazon,,jb,jb,Luggage,"EGP 1,080.00",,,3.9,,,,,https://m.media-amazon.com/images/I/61PBOjw+ELL._AC_UL320_.jpg,https://www.amazon.eg/dp/B097DV1SSD,2026-03-28T13:24:16.855377
+amazon,,jb,jb,Luggage,EGP 950.00,,,3.9,,,,,https://m.media-amazon.com/images/I/41u6-664aiS._AC_UL320_.jpg,https://www.amazon.eg/dp/B091JH72J7,2026-03-28T13:24:16.855885
+amazon,,Luggage Trolley Bags Set Of 2 Pcs. For Cabin With 8 Spinner Wheels And TSA Lock - Black,,Luggage,"EGP 1,818.00",,,3.0,,,,,https://m.media-amazon.com/images/I/51nVLRIzZaL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXH9Q9PB,2026-03-28T13:24:16.856410
+amazon,,VOOWO,VOOWO,Luggage,EGP 590.00,,,4.0,,,,,https://m.media-amazon.com/images/I/61DsBAzMGFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CNT2X1KD,2026-03-28T13:24:16.856906
+amazon,,Musselz,Musselz,Luggage,"EGP 3,420.00",,,3.6,,,,,https://m.media-amazon.com/images/I/71ppudPhd6L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DW42CLF2,2026-03-28T13:24:16.857510
+amazon,,Unbreakable Fabric Luggage Trolley Bags with TSA Lock 4 Silent Spinner Wheels Double Zipper Expandable - ABS Size 24 Grey,,Luggage,"EGP 1,450.00",,,,,,,,https://m.media-amazon.com/images/I/51AdOQRLLkL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9YTFKYS,2026-03-28T13:24:16.857978
+amazon,,milanobag,milanobag,Luggage,"EGP 3,025.00",,,3.4,,,,,https://m.media-amazon.com/images/I/61gHzJh4JtL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BTPFDQY8,2026-03-28T13:24:16.858505
+amazon,,Crossland,Crossland,Luggage,"EGP 2,495.00",,,3.6,,,,,https://m.media-amazon.com/images/I/516RdBL+wRL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHDW5S3C,2026-03-28T13:24:16.859091
+amazon,,Migo,Migo,Luggage,"EGP 1,403.00",,,3.5,,,,,https://m.media-amazon.com/images/I/61quu2uW54L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW61LMR,2026-03-28T13:24:16.859593
+amazon,,Pretocter,Pretocter,Luggage,EGP 500.00,,,5.0,,,,,https://m.media-amazon.com/images/I/61jsasVVkFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D1KKNNFP,2026-03-28T13:24:16.860162
+amazon,,Slimbridge,Slimbridge,Luggage,EGP 995.00,,,3.2,,,,,https://m.media-amazon.com/images/I/41O6cek3Y0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CCXL6M3C,2026-03-28T13:24:16.860655
+amazon,,Migo,Migo,Luggage,"EGP 2,315.00",,,2.6,,,,,https://m.media-amazon.com/images/I/71gAZfE5GVL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW89SCS,2026-03-28T13:24:16.861205
+amazon,,Musselz,Musselz,Luggage,"EGP 1,884.00",,,3.7,,,,,https://m.media-amazon.com/images/I/51Oz5zmwW8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DF5Z24V5,2026-03-28T13:24:16.861804
+amazon,,"Premium Luggage 22"" (SMALL) – Expandable Carry On Suitcase with TSA Lock – 360 Spinner Wheels – Lightweight Business Travel Bag (Grey, 22)",,Luggage,"EGP 1,149.00",,,,,,,,https://m.media-amazon.com/images/I/81VzhUgHJAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2H8XVDB,2026-03-28T13:24:16.862409
+amazon,,CRUISE,CRUISE,Luggage,"EGP 4,163.00",,,3.7,,,,,https://m.media-amazon.com/images/I/71fnfgsVFxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F2FRT4MY,2026-03-28T13:24:16.862949
+amazon,,"Trolley Young Luggage Trolley Bag Size 20 For Unisex, Multi Color",,Luggage,EGP 797.00,,,4.0,,,,,https://m.media-amazon.com/images/I/611Aj61LLPL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CR3NWVDM,2026-03-28T13:24:16.863444
+amazon,,jb,jb,Luggage,"EGP 1,175.00","EGP 1,593.00",,3.8,Was:,,,,https://m.media-amazon.com/images/I/61TLz+qVP0S._AC_UL320_.jpg,https://www.amazon.eg/dp/B097DY66KT,2026-03-28T13:24:16.864050
+amazon,,Stephen Joseph,Stephen Joseph,Luggage,"EGP 2,500.00",,,4.6,,,,,https://m.media-amazon.com/images/I/81AvG2sPvoL._AC_UL320_.jpg,https://www.amazon.eg/dp/B01BVERAE2,2026-03-28T13:24:16.864685
+amazon,,jb,jb,Luggage,"EGP 1,645.00",,,3.0,,,,,https://m.media-amazon.com/images/I/71if-wj3XKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09235Q1D6,2026-03-28T13:24:16.865294
+amazon,,HAMMER luggages,HAMMER luggages,Luggage,"EGP 3,021.00",,,4.0,,,,,https://m.media-amazon.com/images/I/81aJPBLROrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FW4T4BC5,2026-03-28T13:24:16.865936
+amazon,,"Pyramid Luggage Trolley Bag 80 cm (Black, Large)-",,Luggage,"EGP 1,699.00",,,,,,,,https://m.media-amazon.com/images/I/51oetPcuSiL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GJ37RBM3,2026-03-28T13:24:16.866395
+amazon,,Migo,Migo,Luggage,"EGP 4,264.74",,,5.0,,,,,https://m.media-amazon.com/images/I/51mfjhykiXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F228VHB5,2026-03-28T13:24:16.866892
+amazon,,jb,jb,Luggage,,,,3.5,,,,,https://m.media-amazon.com/images/I/51PEXRrWGdS._AC_UL320_.jpg,https://www.amazon.eg/dp/B096L64B94,2026-03-28T13:24:16.867355
+amazon,,ARCTIC HUNTER AH,ARCTIC HUNTER AH,Luggage,"EGP 6,832.00",,,,,,,,https://m.media-amazon.com/images/I/71gSiENqP2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GHH2JCGX,2026-03-28T13:24:16.867804
+amazon,,Lalagouk,Lalagouk,Luggage,EGP 234.63,EGP 263.63,,3.6,List:,,,,https://m.media-amazon.com/images/I/61p4ekbz16L._AC_UL320_.jpg,https://www.amazon.eg/dp/B09J4PZBHL,2026-03-28T13:24:16.868540
+amazon,,SPAHER,SPAHER,Luggage,"EGP 1,215.00","EGP 1,350.00",,4.3,Was:,,,,https://m.media-amazon.com/images/I/61Jq7Z3rcDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CXDJMCQ1,2026-03-28T13:24:16.869169
+amazon,,jb,jb,Luggage,EGP 894.00,,,3.0,,,,,https://m.media-amazon.com/images/I/51VoPIiVgpS._AC_UL320_.jpg,https://www.amazon.eg/dp/B091JFZRP7,2026-03-28T13:24:16.869668
+amazon,,Unbreakable Luggage Trolley Bags with TSA Lock 4 Silent Spinner Wheels Double Zipper Expandable - ABS Size 20 Grey,,Luggage,EGP 999.00,,,,,,,,https://m.media-amazon.com/images/I/41BSDzY1b9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F9YRCJMM,2026-03-28T13:24:16.870202
+amazon,,OIWAS,OIWAS,Luggage,"EGP 1,790.00",,,2.6,,,,,https://m.media-amazon.com/images/I/61hpoenIhrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DSHYRM4Y,2026-03-28T13:24:16.870706
+amazon,,Radefasun,Radefasun,Luggage,EGP 485.00,EGP 550.00,,3.8,Was:,,,,https://m.media-amazon.com/images/I/411pk3EsxSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D3DQK233,2026-03-28T13:24:16.871454
+amazon,,Musselz,Musselz,Luggage,"EGP 1,640.00",,,3.3,,,,,https://m.media-amazon.com/images/I/61bJfbY1ZBL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DCHKYKRY,2026-03-28T13:24:16.872013
+amazon,,Musselz,Musselz,Luggage,"EGP 1,330.00",,,3.5,,,,,https://m.media-amazon.com/images/I/51tDz9oc00L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DH78HVY3,2026-03-28T13:24:16.872540
+amazon,,2 Piece Travel Luggage Set Lightweight Hard Polypropylene 22 Inch with TSA Lock and Gym Travel Bag,,Luggage,"EGP 1,799.00",,,,,,,,https://m.media-amazon.com/images/I/616lOoQrD0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G5HP2KP5,2026-03-28T13:24:16.873025
+amazon,,"Spider-Man Gamer Verse Trolley Bag, 16-Inch Size",,Luggage,"EGP 1,999.00",,,,,,,,https://m.media-amazon.com/images/I/71lRSHKggML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFH396SS,2026-03-28T13:24:16.873469
+amazon,,"Foldable Travel Duffel Bag, Large Capacity Folding Travel Bag, Travel Lightweight Waterproof Carry Luggage Bag With Shoe Compartment (40 X 23 X 42 Cm) (Black), Nylon",,Luggage,EGP 268.96,EGP 298.85,,4.0,Was:,,,,https://m.media-amazon.com/images/I/61z2O8A0lSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B6ZXKLHS,2026-03-28T13:24:16.874096
+amazon,,jb,jb,Luggage,"EGP 1,110.00",,,3.3,,,,,https://m.media-amazon.com/images/I/611-WSRdBTL._AC_UL320_.jpg,https://www.amazon.eg/dp/B096L8M3N7,2026-03-28T13:24:16.874665
+amazon,,COOLIFE,COOLIFE,Luggage,"EGP 2,500.00",,,2.7,,,,,https://m.media-amazon.com/images/I/61bzyOSP-AL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D8P34RWR,2026-03-28T13:24:16.875223
+amazon,,lozafot,lozafot,Luggage,EGP 288.00,EGP 320.00,,4.0,Was:,,,,https://m.media-amazon.com/images/I/51jxbZJqkYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4FYSPCY,2026-03-28T13:24:16.875800
+amazon,,UNWAAT,UNWAAT,Luggage,EGP 517.50,EGP 640.00,,3.9,Was:,,,,https://m.media-amazon.com/images/I/51MZAiXUWCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CG1HK1Q1,2026-03-28T13:24:16.876515
+amazon,,Fabrik,Fabrik,Luggage,"EGP 1,699.00","EGP 1,775.00",,,Was:,,,,https://m.media-amazon.com/images/I/613C2O2G6tL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BGXJ2B76,2026-03-28T13:24:16.877064
+amazon,,jb,jb,Luggage,EGP 960.00,,,3.3,,,,,https://m.media-amazon.com/images/I/51L43WZyK-S._AC_UL320_.jpg,https://www.amazon.eg/dp/B09232RFZJ,2026-03-28T13:24:16.877564
+amazon,,HAMMER luggages,HAMMER luggages,Luggage,"EGP 4,959.00",,,5.0,,,,,https://m.media-amazon.com/images/I/81QIs3lQJlL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FW4WG32Y,2026-03-28T13:24:16.878212
+amazon,,Crossland,Crossland,Luggage,"EGP 8,641.00",,,5.0,,,,,https://m.media-amazon.com/images/I/71BfG5O5ivL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F5N27RSJ,2026-03-28T13:24:16.878724
+amazon,,American Tourister,American Tourister,Luggage,"EGP 8,900.00",,,,,,,,https://m.media-amazon.com/images/I/51aP8FfxS8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHJM6K39,2026-03-28T13:24:16.879182
+amazon,,Musselz,Musselz,Luggage,"EGP 1,250.00",,,2.9,,,,,https://m.media-amazon.com/images/I/51x45-XMXxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DG5BC1SH,2026-03-28T13:24:16.879689
+amazon,,HI-FINE,HI-FINE,Luggage,EGP 505.00,,,3.0,,,,,https://m.media-amazon.com/images/I/61jLZ1DWttL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CXXZPYZH,2026-03-28T13:24:16.880455
+amazon,,N Elegance,N Elegance,Luggage,"EGP 1,600.00",,,4.7,,,,,https://m.media-amazon.com/images/I/51gfplZKreL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DNQ6BTDJ,2026-03-28T13:24:16.881038
+amazon,,Migo,Migo,Luggage,"EGP 2,480.00",,,2.6,,,,,https://m.media-amazon.com/images/I/61quu2uW54L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFW7G6JN,2026-03-28T13:24:20.986582
+amazon,,Luggage Travel Bag SWISSTECH 24 Inches/Black with olive green colour,,Luggage,"EGP 3,190.00",,,,,,,,https://m.media-amazon.com/images/I/41kNXCnKtPL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DKC7G37D,2026-03-28T13:24:20.989854
+amazon,,Luggage Trolley Bags Set Of 2 Pieces For Cabin With 8 Spinner Wheels TSA Lock - Grey,,Luggage,"EGP 1,810.00",,,1.9,,,,,https://m.media-amazon.com/images/I/51q01XXaZOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXLCBHZ5,2026-03-28T13:24:20.990374
+amazon,,Crossland,Crossland,Luggage,,,,4.6,,,,,https://m.media-amazon.com/images/I/51oMpBz0m9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FHDY4G2F,2026-03-28T13:24:20.992154
+amazon,,"4pcs/Set Women's Elegant Square Roman Numeral Dial Stainless Steel Band Quartz Watch + Bracelet Set, Fashion Casual",,Watches,EGP 359.99,,,3.0,,,,,https://m.media-amazon.com/images/I/51NKMPbzJDL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GLRD8D1M,2026-03-28T13:24:15.934112
+amazon,,ALL BLACK | AURA Minimalist Analog Watch | Arabic Numerals | Weightless | Trending!,,Watches,EGP 192.00,EGP 200.00,,2.8,List:,,,,https://m.media-amazon.com/images/I/51kbfCxrt1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F6LTDN2Z,2026-03-28T13:24:15.934819
+amazon,,1pc Rhinestone Decor Round Pointer Watch & 1pc Bracelet,,Watches,EGP 319.99,,,3.6,,,,,https://m.media-amazon.com/images/I/41F2Vg0HP5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVC96H27,2026-03-28T13:24:15.935377
+amazon,,SAMREEN GOLD,SAMREEN GOLD,Watches,EGP 290.00,EGP 315.00,,3.3,Was:,,,,https://m.media-amazon.com/images/I/71eXs-Vc6OL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNRDRMGB,2026-03-28T13:24:15.936037
+amazon,,Casio,Casio,Watches,EGP 601.00,,,2.8,,,,,https://m.media-amazon.com/images/I/613BThUhjoL._AC_UL320_.jpg,https://www.amazon.eg/dp/B000LAKYW8,2026-03-28T13:24:15.936575
+amazon,,Set Men's Watch Calendar Casual Sports Fashion Industrial Style Round Dial Quartz Watch And Leather Bracelet For Men (Brown),,Watches,EGP 379.99,,,5.0,,,,,https://m.media-amazon.com/images/I/61k+91KPflL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G6SL2YR4,2026-03-28T13:24:15.937115
+amazon,,MF MINI FOCUS,MF MINI FOCUS,Watches,"EGP 1,399.00","EGP 1,899.00",,3.7,List:,,,,https://m.media-amazon.com/images/I/81XQ9rIHeUL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07Q15DKGZ,2026-03-28T13:24:15.937731
+amazon,,Matrix,Matrix,Watches,EGP 245.00,,,3.5,,,,,https://m.media-amazon.com/images/I/61xokB2JV4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FR8C9Y4M,2026-03-28T13:24:15.938317
+amazon,,"Men's Casual Business Quartz Watch With Calendar, Stainless Steel Strap",,Watches,EGP 499.99,,,3.3,,,,,https://m.media-amazon.com/images/I/6130+wQptKL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G6SY8DX6,2026-03-28T13:24:15.938874
+amazon,,1pc Round Pointer Quartz Watch & 1pc Bracelet,,Watches,EGP 259.99,,,2.9,,,,,https://m.media-amazon.com/images/I/41LKMtQWOCL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DVCB3T99,2026-03-28T13:24:15.939392
+amazon,,MF MINI FOCUS,MF MINI FOCUS,Watches,"EGP 1,345.00","EGP 1,899.00",,3.9,List:,,,,https://m.media-amazon.com/images/I/717iCoio-eL._AC_UL320_.jpg,https://www.amazon.eg/dp/B08FC2Z88F,2026-03-28T13:24:15.940034
+amazon,,Casio,Casio,Watches,"EGP 3,809.00",,,4.2,,,,,https://m.media-amazon.com/images/I/71RTUpJR5mL._AC_UL320_.jpg,https://www.amazon.eg/dp/B00GRRIZK2,2026-03-28T13:24:15.940554
+amazon,,1pc Round Pointer Quartz Watch & 5pcs Bracelet - GOLD,,Watches,EGP 359.99,,,3.5,,,,,https://m.media-amazon.com/images/I/31eh4fUifZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DYK1CF1B,2026-03-28T13:24:15.941127
+amazon,,Elegant Women’s Analog Stainless Steel Watch – Timeless Wristwatch with Stylish & Sleek Design (/Gold),,Watches,EGP 575.00,,,5.0,,,,,https://m.media-amazon.com/images/I/71ac4uz9tlL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GF1WY2H3,2026-03-28T13:24:15.941616
+amazon,,MediaTech,MediaTech,Watches,EGP 325.00,,,3.1,,,,,https://m.media-amazon.com/images/I/51EDDcHc1xL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXVD5PFC,2026-03-28T13:24:15.942182
+amazon,,"Fashion Women's Wrist Watch, Adjustable Metal Band,",,Watches,EGP 299.99,,,4.6,,,,,https://m.media-amazon.com/images/I/414MEttbc7L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNLPJH8L,2026-03-28T13:24:15.942694
+amazon,,"KM Technology Character Kids And Man Watches – Analog Display, Interactive Features, Adjustable Strap",,Watches,EGP 120.00,,,2.5,,,,,https://m.media-amazon.com/images/I/51KXWSWlc1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNL8B4Z5,2026-03-28T13:24:15.943224
+amazon,,XIAOMI,XIAOMI,Watches,"EGP 1,699.00","EGP 1,999.00",,4.4,List:,,,,https://m.media-amazon.com/images/I/61iOQG77hxL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DFZPR9Z4,2026-03-28T13:24:15.943866
+amazon,,"Fashion Women's Wrist Watch, Adjustable Metal Band,",,Watches,EGP 299.99,,,4.6,,,,,https://m.media-amazon.com/images/I/4194d40MNHL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FNLP57KY,2026-03-28T13:24:15.944373
+amazon,,IB Men's Wristwatch 41mm Quartz Movement Stainless Steel Anti-Rust (Black),,Watches,EGP 380.00,,,3.7,,,,,https://m.media-amazon.com/images/I/51dChJYnOgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0D43S6DK3,2026-03-28T13:24:15.944898
+amazon,,"KM Technology Character Kids And Man Watches Plastic – Analog Display, Interactive Features, Adjustable Strap Silicone",,Watches,EGP 199.00,,,,,,,,https://m.media-amazon.com/images/I/61P5ZzuH0SL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GR46C294,2026-03-28T13:24:15.945350
+amazon,,GAOFAN HOUR,GAOFAN HOUR,Watches,EGP 530.00,,,4.6,,,,,https://m.media-amazon.com/images/I/61hBJsXJMML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DXQ69Q81,2026-03-28T13:24:15.945889
+amazon,,MF MINI FOCUS,MF MINI FOCUS,Watches,"EGP 1,286.00","EGP 1,899.00",,4.2,List:,,,,https://m.media-amazon.com/images/I/717iCoio-eL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07NZVKGYF,2026-03-28T13:24:15.946469
+amazon,,"Men's Casual Business Quartz Watch With Calendar, Stainless Steel Strap",,Watches,EGP 499.99,,,3.3,,,,,https://m.media-amazon.com/images/I/61TB4LxEH0L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G6SZ31G4,2026-03-28T13:24:15.946987
+amazon,,SKMEI,SKMEI,Watches,EGP 504.25,EGP 649.00,,4.3,List:,,,,https://m.media-amazon.com/images/I/61vwxy2tcNL._AC_UL320_.jpg,https://www.amazon.eg/dp/B091J9LCQK,2026-03-28T13:24:15.947581
+amazon,,SWADESI STUFF,SWADESI STUFF,Watches,EGP 760.00,,,4.0,,,,,https://m.media-amazon.com/images/I/81d1dMFS-TL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DSC4QNLL,2026-03-28T13:24:15.948105
+amazon,,Women's Open Bracelet Watch Oval Dial Gold Stainless Steel Analog Quartz Watch Classic Elegant,,Watches,EGP 499.00,,,5.0,,,,,https://m.media-amazon.com/images/I/41i4gn0apGL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GNJJTYPV,2026-03-28T13:24:15.948595
+amazon,,"Luxury Rose Gold Women's Quartz Watch – Elegant Eid Gift for her-Crystal-Embellished Dial, Ultra-Lightweight, Scratch-Resistant, Elegant Dress Watch.",,Watches,"EGP 1,500.00",,,5.0,,,,,https://m.media-amazon.com/images/I/513qunTodqL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FWKG6VKM,2026-03-28T13:24:15.949138
+amazon,,MF MINI FOCUS,MF MINI FOCUS,Watches,"EGP 1,488.00","EGP 1,899.00",,4.5,List:,,,,https://m.media-amazon.com/images/I/614j+AjbCFL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BCDNMRXS,2026-03-28T13:24:15.949724
+amazon,,"Men's Casual Business Quartz Watch With Calendar, Stainless Steel Strap",,Watches,EGP 499.99,,,3.3,,,,,https://m.media-amazon.com/images/I/61hyyOxptAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G6SKNVRQ,2026-03-28T13:24:15.950246
+amazon,,SKMEI,SKMEI,Watches,EGP 548.95,,,4.0,,,,,https://m.media-amazon.com/images/I/61gGqJiyYiL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07B6ML1VJ,2026-03-28T13:24:15.950774
+amazon,,Casio,Casio,Watches,EGP 910.00,,,4.6,,,,,https://m.media-amazon.com/images/I/61hm6JJ0CzL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07T8688Q5,2026-03-28T13:24:15.951297
+amazon,,SKMEI,SKMEI,Watches,EGP 699.00,,,4.2,,,,,https://m.media-amazon.com/images/I/61SMFhy2suL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B6J27L8B,2026-03-28T13:24:15.951829
+amazon,,SKMEI,SKMEI,Watches,EGP 511.48,EGP 749.00,,4.1,List:,,,,https://m.media-amazon.com/images/I/71TQNs5Q7wL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0733GM3CK,2026-03-28T13:24:15.952442
+amazon,,Ben Ten Watch - Green and Black,,Watches,EGP 172.00,,,3.2,,,,,https://m.media-amazon.com/images/I/71wUfZiKCrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B092DZGC57,2026-03-28T13:24:15.952994
+amazon,,Casio,Casio,Watches,EGP 885.00,"EGP 1,075.00",,3.9,List:,,,,https://m.media-amazon.com/images/I/61Ksqwwg15L._AC_UL320_.jpg,https://www.amazon.eg/dp/B001ES9KRQ,2026-03-28T13:24:15.953608
+amazon,,Miykon,Miykon,Watches,EGP 599.00,EGP 640.00,,4.4,Was:,,,,https://m.media-amazon.com/images/I/61j-7wM5ceL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0DT5P5JNJ,2026-03-28T13:24:15.954204
+amazon,,Simple Arabic Numbers Analog Matte Mens Watch | Fashion Wrist Watch (Black in Silver),,Watches,EGP 202.00,,,,,,,,https://m.media-amazon.com/images/I/41dwlbhhevL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G7KDRFJT,2026-03-28T13:24:15.954631
+amazon,,Oraimo,Oraimo,Watches,"EGP 1,299.00","EGP 1,399.00",,4.0,List:,,,,https://m.media-amazon.com/images/I/61Yj9K3WJrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CXMYJT8W,2026-03-28T13:24:15.955265
+amazon,,Mens Watch with Arabic Numerals Simple Analog Matte Watch | Fashion Wrist Watch,,Watches,EGP 225.00,,,3.2,,,,,https://m.media-amazon.com/images/I/41InQeRsQgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FB9Q9QH7,2026-03-28T13:24:15.955811
+amazon,,MF MINI FOCUS,MF MINI FOCUS,Watches,"EGP 1,280.00",,,4.1,,,,,https://m.media-amazon.com/images/I/61f+kQTEVWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07NXV4Y1B,2026-03-28T13:24:15.956326
+amazon,,Casio,Casio,Watches,"EGP 1,990.31",,,4.6,,,,,https://m.media-amazon.com/images/I/510IraIzaLL._AC_UL320_.jpg,https://www.amazon.eg/dp/B079J6D6Y8,2026-03-28T13:24:15.956861
+amazon,,Luxury Men's Watch Leather Band Classic Design - Durable Metal Lock - Suitable for Occasions and Formal - Fashion Style with High Quality,,Watches,EGP 425.00,,,,,,,,https://m.media-amazon.com/images/I/61s-F78lb4L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GPLP74MF,2026-03-28T13:24:15.957307
+amazon,,Casio,Casio,Watches,"EGP 1,210.00",,,4.8,,,,,https://m.media-amazon.com/images/I/518TJVmPmgL._AC_UL320_.jpg,https://www.amazon.eg/dp/B083F4JFCM,2026-03-28T13:24:15.957839
+amazon,,Yuxier,Yuxier,Watches,EGP 349.00,,,3.7,,,,,https://m.media-amazon.com/images/I/810dy2q81eL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BPX5HGFD,2026-03-28T13:24:15.958349
+amazon,,Casio,Casio,Watches,"EGP 1,490.00","EGP 1,691.00",Save 12%,4.4,Was:,,,,https://m.media-amazon.com/images/I/61Dh+nVakML._AC_UL320_.jpg,https://www.amazon.eg/dp/B0039YOHI0,2026-03-28T13:24:15.958964
+amazon,,MF MINI FOCUS,MF MINI FOCUS,Watches,"EGP 1,379.00",,,3.0,,,,,https://m.media-amazon.com/images/I/61+fKuTtuQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0968WY56Q,2026-03-28T13:24:15.959468
+amazon,,Quartz Watch for Women - - Stainless Steel Band,,Watches,EGP 150.00,,,2.7,,,,,https://m.media-amazon.com/images/I/61vKaDCKH3L._AC_UL320_.jpg,https://www.amazon.eg/dp/B09693SRZH,2026-03-28T13:24:15.960015
+amazon,,Silver Metal Watch For Men,,Watches,EGP 175.00,,,2.5,,,,,https://m.media-amazon.com/images/I/515wxMjfnNL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0F3D43G7C,2026-03-28T13:24:21.154584
+amazon,,Daniel Wellington,Daniel Wellington,Watches,,,,4.4,,,,,https://m.media-amazon.com/images/I/51F5rT2k4SL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09BRHWM5C,2026-03-28T13:24:21.155394
+amazon,,Casio,Casio,Watches,"EGP 2,552.00","EGP 2,895.00",,4.9,List:,,,,https://m.media-amazon.com/images/I/61ZVvmXIgjL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CJRRDF22,2026-03-28T13:24:21.156041
+amazon,,Casio,Casio,Watches,"EGP 1,277.20",,,1.7,,,,,https://m.media-amazon.com/images/I/71TJCHya+ML._AC_UL320_.jpg,https://www.amazon.eg/dp/B07NWPTWR7,2026-03-28T13:24:21.156571
+amazon,,Casio,Casio,Watches,"EGP 1,145.00",,,4.5,,,,,https://m.media-amazon.com/images/I/51YGOx8Ag9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B08CBPKDJ8,2026-03-28T13:24:21.157122
+amazon,,"Men's Quartz Wrist Watch, Stainless Steel, Black, with Date, Classic",,Watches,EGP 349.00,,,,,,,,https://m.media-amazon.com/images/I/511hj2susdL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GQ6DVSMG,2026-03-28T13:24:21.157570
+amazon,,SKMEI,SKMEI,Watches,EGP 527.13,EGP 649.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/61tGL6N6ugL._AC_UL320_.jpg,https://www.amazon.eg/dp/B091JC6JHM,2026-03-28T13:24:21.158198
+amazon,,Casio,Casio,Watches,"EGP 1,559.00",,,4.1,,,,,https://m.media-amazon.com/images/I/61CeEfy+eEL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07NF7RNBH,2026-03-28T13:24:21.158712
+amazon,,Classic Square Watches for Women with Roman Numerals Ladies Casual Dress Watch (Silver&Gold),,Watches,EGP 499.00,EGP 575.00,,5.0,List:,,,,https://m.media-amazon.com/images/I/71ijKHe5QdL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G4VY78GT,2026-03-28T13:24:21.159365
+amazon,,LYMFHCH,LYMFHCH,Watches,EGP 699.00,,,4.0,,,,,https://m.media-amazon.com/images/I/71BRnykl48L._AC_UL320_.jpg,https://www.amazon.eg/dp/B08MJKMGJS,2026-03-28T13:24:21.159903
+amazon,,Michael Kors,Michael Kors,Watches,"EGP 5,099.00",,,4.4,,,,,https://m.media-amazon.com/images/I/81xp2-n+ybL._AC_UL320_.jpg,https://www.amazon.eg/dp/B00FZE1AZU,2026-03-28T13:24:21.160410
+amazon,,Armani Exchange,Armani Exchange,Watches,"EGP 2,124.81",,,3.4,,,,,https://m.media-amazon.com/images/I/818Ip9+GnAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0843R4Q1G,2026-03-28T13:24:21.160935
+amazon,,Emporio Armani,Emporio Armani,Watches,"EGP 4,147.00","EGP 13,549.00",,4.0,List:,,,,https://m.media-amazon.com/images/I/6106oRIb5BL._AC_UL320_.jpg,https://www.amazon.eg/dp/B07K54MCR3,2026-03-28T13:24:21.161540
+amazon,,"Classic Minimalist Watch, Leather Band, Time Display,Dial Options",,Watches,EGP 180.00,,,1.0,,,,,https://m.media-amazon.com/images/I/41qDarHBtcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0GGKDMVGS,2026-03-28T13:24:21.162093
+amazon,,Daniel Wellington,Daniel Wellington,Watches,"EGP 4,531.00",,,4.3,,,,,https://m.media-amazon.com/images/I/51nOgdMHd8L._AC_UL320_.jpg,https://www.amazon.eg/dp/B09QV9VDPF,2026-03-28T13:24:21.162633
+amazon,,SKMEI,SKMEI,Watches,EGP 540.99,,,4.1,,,,,https://m.media-amazon.com/images/I/51qF692qnWL._AC_UL320_.jpg,https://www.amazon.eg/dp/B076PCTRX2,2026-03-28T13:24:21.163197
+amazon,,SKMEI,SKMEI,Watches,EGP 524.98,,,5.0,,,,,https://m.media-amazon.com/images/I/61Eaajbls-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0G2JV1D6D,2026-03-28T13:24:21.163706
+amazon,,Casio,Casio,Watches,"EGP 2,599.00",,,4.1,,,,,https://m.media-amazon.com/images/I/61qqks3D4eL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09ST9MXWM,2026-03-28T13:24:21.164268
+amazon,,Casio,Casio,Watches,"EGP 2,532.00",,,4.3,,,,,https://m.media-amazon.com/images/I/51gcFKF8sZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B08C3FDQ3J,2026-03-28T13:24:21.164794
+amazon,,Alba,Alba,Watches,"EGP 2,719.00",,,5.0,,,,,https://m.media-amazon.com/images/I/51xNuSydg5L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0B4GQRF31,2026-03-28T13:24:21.165311
+amazon,,Casio,Casio,Watches,EGP 688.00,"EGP 1,090.00",,4.3,List:,,,,https://m.media-amazon.com/images/I/71JzxhIbNAL._AC_UL320_.jpg,https://www.amazon.eg/dp/B000UUC2XS,2026-03-28T13:24:21.165944
+amazon,,MF MINI FOCUS,MF MINI FOCUS,Watches,"EGP 1,608.54",,,4.4,,,,,https://m.media-amazon.com/images/I/71TghE0scbL._AC_UL320_.jpg,https://www.amazon.eg/dp/B092TQSJ7P,2026-03-28T13:24:21.166446
+amazon,,Tommy Hilfiger,Tommy Hilfiger,Watches,"EGP 4,795.00",,,4.6,,,,,https://m.media-amazon.com/images/I/61sfo+4cI1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B07B6C8MST,2026-03-28T13:24:21.167000
+amazon,,Tommy Hilfiger,Tommy Hilfiger,Watches,"EGP 2,998.95",,,4.4,,,,,https://m.media-amazon.com/images/I/61ipIfXDVqL._AC_UL320_.jpg,https://www.amazon.eg/dp/B08X4PDBTP,2026-03-28T13:24:21.167499
+amazon,,Oraimo,Oraimo,Watches,"EGP 1,224.05","EGP 1,600.00",,4.0,List:,,,,https://m.media-amazon.com/images/I/61shUuiQKiL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CYT4PJP9,2026-03-28T13:24:21.168118
+amazon,,Citizen,Citizen,Watches,"EGP 13,418.20","EGP 15,989.00",,4.6,List:,,,,https://m.media-amazon.com/images/I/61HjATZ+qQL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CSBZC1R8,2026-03-28T13:24:21.168707
+amazon,,SKMEI,SKMEI,Watches,EGP 499.99,,,4.1,,,,,https://m.media-amazon.com/images/I/716QOQZ2o-L._AC_UL320_.jpg,https://www.amazon.eg/dp/B077MNWR43,2026-03-28T13:24:21.169271
+amazon,,Daniel Wellington,Daniel Wellington,Watches,"EGP 3,365.00","EGP 4,749.00",,3.9,List:,,,,https://m.media-amazon.com/images/I/51ggaBY3cZL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09QVCTXTB,2026-03-28T13:24:21.169907
+amazon,,Casio,Casio,Watches,"EGP 3,722.00",,,4.2,,,,,https://m.media-amazon.com/images/I/71+mjBc2cOL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0834D2G9S,2026-03-28T13:24:21.170420
+amazon,,Daniel Wellington,Daniel Wellington,Watches,"EGP 5,075.00",,,4.5,,,,,https://m.media-amazon.com/images/I/61kIErEj04L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0BRYFF7SX,2026-03-28T13:24:21.171019
+amazon,,Michael Kors,Michael Kors,Watches,"EGP 6,999.00","EGP 9,104.00",,4.7,Was:,,,,https://m.media-amazon.com/images/I/511ujPj8LeL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CJB5L6JL,2026-03-28T13:24:21.171597
+amazon,,Tommy Hilfiger,Tommy Hilfiger,Watches,"EGP 7,499.00",,,4.0,,,,,https://m.media-amazon.com/images/I/71MR2y-7-vL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FC66K8DN,2026-03-28T13:24:21.172141
+amazon,,Tommy Hilfiger,Tommy Hilfiger,Watches,"EGP 6,929.00",,,4.4,,,,,https://m.media-amazon.com/images/I/61-r1XJ555L._AC_UL320_.jpg,https://www.amazon.eg/dp/B09RF49SY3,2026-03-28T13:24:21.172648
+amazon,,Itel,Itel,Watches,EGP 899.00,EGP 979.00,,3.9,List:,,,,https://m.media-amazon.com/images/I/518deCLidSL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FJS8Y7DG,2026-03-28T13:24:21.173253
+amazon,,"Digital Smart Watch with Silicone Band, Rose Gold Case, Multiple Colours Available",,Watches,EGP 75.00,,,3.0,,,,,https://m.media-amazon.com/images/I/71fLYqjIO+L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0FMFYZWZJ,2026-03-28T13:24:21.173764
+amazon,,SKMEI,SKMEI,Watches,EGP 614.50,EGP 849.00,,4.0,List:,,,,https://m.media-amazon.com/images/I/61A8Y+BMLXL._AC_UL320_.jpg,https://www.amazon.eg/dp/B08GD2D6ZC,2026-03-28T13:24:21.174347
+amazon,,Fossil,Fossil,Watches,"EGP 7,244.00",,,4.5,,,,,https://m.media-amazon.com/images/I/61gwHc80A2L._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CKBCPJSF,2026-03-28T13:24:21.174880
+amazon,,Daniel Wellington,Daniel Wellington,Watches,"EGP 2,183.00",,,3.9,,,,,https://m.media-amazon.com/images/I/510PiWad66L._AC_UL320_.jpg,https://www.amazon.eg/dp/B01LY3RPD2,2026-03-28T13:24:21.175410
+amazon,,BOSS,BOSS,Watches,"EGP 4,199.00",,,2.7,,,,,https://m.media-amazon.com/images/I/71mrl0bOTyL._AC_UL320_.jpg,https://www.amazon.eg/dp/B09VQFJY35,2026-03-28T13:24:21.175936
+amazon,,Michael Kors,Michael Kors,Watches,"EGP 5,899.00",,,4.3,,,,,https://m.media-amazon.com/images/I/61FyG4HQ7LL._AC_UL320_.jpg,https://www.amazon.eg/dp/B001IVY98O,2026-03-28T13:24:21.176460
+amazon,,GUESS,GUESS,Watches,"EGP 5,500.00",,,3.9,,,,,https://m.media-amazon.com/images/I/71bnzfLxfrL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CCPFNYHH,2026-03-28T13:24:21.176990
+amazon,,Michael Kors,Michael Kors,Watches,"EGP 7,992.00",,,4.4,,,,,https://m.media-amazon.com/images/I/81NSpZaAxdS._AC_UL320_.jpg,https://www.amazon.eg/dp/B08V3KNPY4,2026-03-28T13:24:21.177496
+amazon,,Daniel Klein,Daniel Klein,Watches,"EGP 2,020.00",,,,,,,,https://m.media-amazon.com/images/I/61RnVGNUbYL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0CHYVM21L,2026-03-28T13:24:21.177977
+amazon,,Citizen,Citizen,Watches,"EGP 8,725.00",,,4.2,,,,,https://m.media-amazon.com/images/I/71c3bF5cQeL._AC_UL320_.jpg,https://www.amazon.eg/dp/B076BS3V3M,2026-03-28T13:24:21.178487
+amazon,,Casio,Casio,Watches,"EGP 1,355.00",,,4.2,,,,,https://m.media-amazon.com/images/I/61wQ64s8mcL._AC_UL320_.jpg,https://www.amazon.eg/dp/B0028B9FRI,2026-03-28T13:24:21.179025
+amazon,,GUESS,GUESS,Watches,"EGP 7,290.00",,,5.0,,,,,https://m.media-amazon.com/images/I/715ZUKMHy1L._AC_UL320_.jpg,https://www.amazon.eg/dp/B01KA7R1E0,2026-03-28T13:24:21.179527
+amazon,,Tommy Hilfiger,Tommy Hilfiger,Watches,"EGP 6,929.00",,,4.5,,,,,https://m.media-amazon.com/images/I/61AWZtz1p9L._AC_UL320_.jpg,https://www.amazon.eg/dp/B08X4P49HX,2026-03-28T13:24:21.180131
