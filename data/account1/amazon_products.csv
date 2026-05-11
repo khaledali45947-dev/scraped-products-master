@@ -1,1 +1,1 @@
-﻿platform,product_id,title,brand,category,current_price,original_price,discount,rating,reviews_count,availability,seller,express_delivery,platform_badge,sponsored,main_image,all_images,description,weight,dimensions,model_number,country_of_origin,warranty,tech_specs,variations,ships_from,delivery_date,product_url,scraped_at
+﻿platform,asin,title,brand,category,current_price,original_price,discount,rating,reviews_count,prime_eligible,amazon_choice,sponsored,main_image,product_url,scraped_at
